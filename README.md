@@ -25,8 +25,6 @@ python3 scripts/install.py
 gnome-extensions enable classic-gadgets@FreeDivers.github.io
 ```
 
-从旧 UUID `classic-gadgets@qinyan.local` 升级时，安装脚本会先请求禁用旧扩展，再把旧目录移到用户状态目录下的备份中，避免两个版本同时安装。设置和数据路径不变，便笺、联系人和布局会继续使用。安装后请注销并重新登录，再启用新 UUID。`--no-enable` 不修改启用状态，适合离线安装；使用它迁移后也须先重新登录。
-
 卸载用 `python3 scripts/uninstall.py`，便笺、联系人和布局等个人数据会保留。
 
 ## 怎么用

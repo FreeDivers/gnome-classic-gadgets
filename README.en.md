@@ -25,8 +25,6 @@ If the extension is not enabled after login, run:
 gnome-extensions enable classic-gadgets@FreeDivers.github.io
 ```
 
-When upgrading from `classic-gadgets@qinyan.local`, the installer first requests that the old extension be disabled, then archives its directory under the user state directory so both versions are not left installed. Settings and data paths stay unchanged, preserving notes, contacts and layouts. Log out and back in before enabling the new UUID. `--no-enable` leaves enablement settings untouched for offline installation; log out and back in after migrating with this option too.
-
 To uninstall, run `python3 scripts/uninstall.py`. Personal data, including notes, contacts and layouts, is kept.
 
 ## Use
