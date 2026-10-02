@@ -1,0 +1,20 @@
+/* Host chrome only. Gadget bodies remain the untouched original skin images. */
+.cg-window { color: #182535; font-family: sans-serif; font-size: 12px; background-color: #f5f8fc; border: 1px solid rgba(67,94,125,0.8); border-radius: 7px; box-shadow: 0 8px 24px rgba(0,0,0,0.35); }
+.cg-window.cg-fluent { background-color: #f3f3f3; border-color: #bdbdbd; border-radius: 12px; }
+.cg-window-header { spacing: 12px; padding: 7px 10px; background-color: #e4edf7; border-radius: 6px 6px 0 0; }
+.cg-fluent .cg-window-header { background-color: #e8e8e8; border-radius: 11px 11px 0 0; }
+.cg-title { font-weight: bold; padding-top: 5px; }
+.cg-window-content { padding: 14px; spacing: 10px; }
+.cg-close { padding: 0 9px; min-height: 24px; color: #26384d; border-radius: 4px; font-size: 20px; }
+.cg-close:hover { background-color: #c42b1c; color: white; }
+.cg-label { color: #182535; }
+.cg-button { padding: 5px 12px; min-height: 18px; color: #172b42; border: 1px solid #acbbce; border-radius: 4px; background-color: #fff; }
+.cg-button:hover, .cg-button:focus { background-color: #e3f0ff; border-color: #5c9cda; }
+.cg-button:active { background-color: #c9e2fa; }
+.cg-button:insensitive { color: #828b97; background-color: #e6e9ee; }
+.cg-primary { color: white; background-color: #0067c0; border-color: #0067c0; }
+.cg-primary:hover, .cg-primary:focus { color: white; background-color: #187bcc; }
+.cg-entry { min-height: 22px; padding: 6px 8px; color: #1b2636; background-color: white; border: 1px solid #b2becd; border-radius: 4px; selection-background-color: #0067c0; selected-color: white; caret-color: #111; }
+.cg-entry:focus { border-color: #1677c5; }
+.cg-hint { color: #5c6879; font-size: 11px; }
+.cg-error { color: #b22d24; font-size: 11px; }

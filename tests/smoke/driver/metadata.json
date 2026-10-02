@@ -1,0 +1,1 @@
+{"uuid":"classic-gadgets-smoke@local","name":"Windows Vista/7 Widgets smoke driver","description":"Only installed in the temporary headless smoke session started by scripts/smoke-shell.sh","shell-version":["50"],"version":1}

@@ -1,0 +1,12 @@
+/upstream/
+/build/
+/dist/
+/.cache/
+__pycache__/
+*.pyc
+/extension/schemas/gschemas.compiled
+
+# Skin assets are tracked; their separate rights are documented in ASSET-NOTICE.md.
+
+# Compiled gettext catalogs; edit po/*.po instead.
+extension/locale/

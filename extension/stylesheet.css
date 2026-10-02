@@ -1,0 +1,126 @@
+/* Typography belongs to the Linux host; all skin images remain untouched.
+ * Explicit, freely available Latin + CJK stacks avoid unpredictable Windows
+ * font aliases. St expects one quoted Pango family list, not CSS web-font
+ * syntax. Sizes are logical px, scaled together with the original skin. */
+.og-gadget, .og-body { background-color: transparent; border: none; border-radius: 0; box-shadow: none; padding: 0; margin: 0; }
+.og-gadget { font-family: "Noto Sans, Noto Sans CJK SC, DejaVu Sans, sans-serif"; font-size: 11px; font-weight: 400; color: #20242a; }
+.og-fluent { font-family: "Ubuntu Sans, Noto Sans CJK SC, DejaVu Sans, sans-serif"; }
+.og-image { border: none; padding: 0; margin: 0; background-color: transparent; background-repeat: no-repeat; background-position: 0 0; }
+.og-label { padding: 0; margin: 0; border: none; background-color: transparent; }
+.og-action, .og-sprite-button { padding: 0; margin: 0; border: none; border-radius: 0; background-color: transparent; box-shadow: none; color: inherit; }
+.og-action:focus, .og-sprite-button:focus { outline: 1px dotted rgba(50, 70, 90, 0.8); }
+.og-toolbar { spacing: 1px; padding: 1px; background-color: rgba(38, 44, 48, 0.74); border: 1px solid rgba(220, 230, 235, 0.55); border-radius: 3px; }
+.og-tool { width: 16px; height: 16px; padding: 0; color: white; font-size: 11px; background-color: transparent; border: 0; border-radius: 2px; }
+.og-tool:hover, .og-tool:focus { background-color: rgba(220, 238, 255, 0.35); }
+.og-drag-handle { color: rgba(255, 255, 255, 0.85); }
+.og-numeric { font-family: "Ubuntu Sans, Noto Sans CJK SC, DejaVu Sans, sans-serif"; }
+
+/* Clock: a quiet dial inscription, not a UI title. Modern faces use sans. */
+.og-clock-name { font-family: "Noto Serif, Noto Serif CJK SC, DejaVu Serif, serif"; font-size: 10px; font-weight: 400; text-align: center; color: #34312d; }
+.og-clock-sans, .og-fluent .og-clock-name { font-family: "Ubuntu Sans, Noto Sans CJK SC, sans-serif"; }
+.og-clock-light { color: #f2f1ec; text-shadow: 0 1px 1px rgba(0,0,0,0.5); }
+
+/* Calendar: prominent day, compact month grid, legible CJK headings. */
+.og-calendar-day { font-size: 54px; font-weight: 300; color: white; text-align: center; }
+.og-calendar-weekday { color: white; font-size: 11px; font-weight: 500; text-align: center; }
+.og-calendar-month { color: white; font-size: 10px; font-weight: 400; text-align: center; }
+.og-calendar-heading { font-size: 10px; font-weight: 500; text-align: center; color: #34302a; }
+.og-calendar-arrow { color: #5a554f; font-size: 17px; padding: 0; background-color: transparent; border: none; }
+.og-calendar-arrow:hover { color: #c34c00; }
+.og-calendar-dow { color: #6c665e; font-size: 9px; font-weight: 500; text-align: center; }
+.og-calendar-cell { color: #292621; font-size: 10px; text-align: center; }
+.og-calendar-dim { color: #9a958e; }
+.og-calendar-today { color: white; font-weight: 600; background-color: #dc5800; }
+.og-fluent .og-calendar-today { background-color: #005fb8; color: white; border-radius: 10px; }
+.og-fluent .og-calendar-arrow:hover { color: #005fb8; }
+
+/* Gauge figures have equal-width digits and a little contrast under glass. */
+.og-meter-value { font-size: 9px; font-weight: 600; color: #fff; text-align: center; text-shadow: 0 1px 1px rgba(0,0,0,0.8); }
+.og-large .og-meter-value { font-size: 12px; }
+
+/* Paper: a readable book face instead of a missing handwriting font. */
+.og-note-entry { font-family: "Noto Serif, Noto Serif CJK SC, DejaVu Serif, serif"; font-size: 12px; font-weight: 400; color: #322b23; border: none; border-radius: 0; background-color: transparent; box-shadow: none; padding: 0; caret-color: #322b23; selection-background-color: #b2d3ed; selected-color: #17212b; }
+.og-fluent .og-note-entry { font-family: "Ubuntu Sans, Noto Sans CJK SC, sans-serif"; }
+.og-note-entry:focus { border: none; box-shadow: none; }
+.og-large .og-note-entry { font-size: 15px; }
+.og-note-page { font-size: 9px; color: #5f5343; text-align: center; }
+
+/* Photos remain image-only; their controls are the original raster icons. */
+.og-photo-control { color: white; text-align: center; border: none; padding: 0; background-color: transparent; }
+.og-photo-control:hover { color: #bce9ff; }
+
+/* Calculator: expression is secondary; result and key legends are distinct. */
+.og-calc-entry { font-family: "Ubuntu Sans, Noto Sans CJK SC, sans-serif"; font-size: 11px; color: #20313d; text-align: right; border: none; border-radius: 0; background-color: transparent; box-shadow: none; padding: 0; caret-color: #17212b; }
+.og-calc-entry:focus { border: none; box-shadow: none; }
+.og-calc-result { font-size: 14px; font-weight: 500; text-align: right; color: #101f29; }
+.og-calc-memory { font-size: 9px; font-weight: 500; color: #fff; }
+.og-calc-key { font-family: "Ubuntu Sans, Noto Sans Symbols2, DejaVu Sans, sans-serif"; font-size: 11px; font-weight: 500; color: #252a2f; }
+.og-calc-operator { font-size: 12px; font-weight: 400; }
+.og-calc-wide { font-size: 9px; }
+.og-calc-key:hover { background-color: rgba(255,255,255,0.34); }
+.og-large .og-calc-entry { font-size: 16px; }
+.og-large .og-calc-result { font-size: 24px; }
+.og-large .og-calc-key { font-size: 17px; }
+.og-large .og-calc-operator { font-size: 19px; }
+.og-large .og-calc-wide { font-size: 13px; }
+.og-large .og-calc-memory { font-size: 11px; }
+
+/* Timer uses Cairo text along its two curved bands (see timer-text.js). */
+.og-puzzle-tile { padding: 0; margin: 0; border: none; border-radius: 0; box-shadow: none; background-color: transparent; }
+.og-puzzle-tile:hover { opacity: 0.9; }
+.og-puzzle-status { font-size: 10px; font-weight: 500; color: #422a17; text-align: center; }
+
+/* Weather: clear reading hierarchy, restrained forecast and source labels. */
+.og-weather-temperature { font-size: 27px; font-weight: 300; text-align: right; color: #18222b; }
+.og-weather-city { font-size: 11px; font-weight: 500; text-align: right; }
+.og-weather-error { font-size: 10px; text-align: center; }
+.og-weather-condition { font-size: 11px; text-align: right; }
+.og-weather-forecast { font-size: 10px; text-align: left; }
+.og-weather-forecast-day { font-size: 10px; font-weight: 500; text-align: center; }
+.og-weather-attribution { font-size: 10px; text-align: left; }
+.og-large .og-weather-temperature { font-size: 38px; }
+.og-large .og-weather-city { font-size: 14px; font-weight: 500; }
+
+/* Headlines are left aligned at both sizes; CJK and Latin share line rhythm. */
+.og-feed-heading { color: #f6f7fa; font-size: 11px; font-weight: 600; }
+.og-feed-title, .og-feed-message { color: #edf1f7; font-size: 11px; font-weight: 400; text-align: left; }
+.og-feed-link { background-color: transparent; padding: 3px 1px 5px; border-bottom: 1px solid rgba(255,255,255,0.14); text-align: left; }
+.og-feed-link:hover { background-color: rgba(255,255,255,0.10); }
+.og-feed-all { color: #edf1f7; font-size: 10px; }
+.og-large .og-feed-heading { font-size: 13px; }
+.og-large .og-feed-title, .og-large .og-feed-message { font-size: 13px; }
+.og-large .og-feed-all { font-size: 11px; }
+
+/* Finance: stable tabular numerals, not bold UI text in every column. */
+.og-currency-code { color: #fffaf1; font-size: 10px; font-weight: 500; }
+.og-currency-input { font-family: "Ubuntu Sans, Noto Sans CJK SC, sans-serif"; color: #21241e; font-size: 12px; font-weight: 500; background-color: rgba(255,255,255,0.70); border: 1px solid rgba(0,0,0,0.35); border-radius: 0; padding: 0 2px; box-shadow: none; text-align: right; caret-color: black; }
+.og-currency-result { color: #21241e; font-size: 12px; font-weight: 600; background-color: rgba(255,255,255,0.70); border: 1px solid rgba(0,0,0,0.35); padding: 0 2px; text-align: right; }
+.og-currency-date { color: #fffaf1; font-size: 9px; text-align: right; text-shadow: 0 1px 1px rgba(0,0,0,0.5); }
+.og-large .og-currency-code { font-size: 12px; }
+.og-large .og-currency-input, .og-large .og-currency-result { font-size: 16px; }
+.og-large .og-currency-date { font-size: 10px; }
+.og-stock-symbol { color: #f4f7fa; font-size: 11px; font-weight: 500; }
+.og-stock-price { color: #fff; font-size: 12px; font-weight: 500; text-align: right; }
+.og-stock-caption { color: #d2dbe1; font-size: 10px; }
+.og-stock-change { font-size: 10px; font-weight: 500; }
+.og-stock-state { color: #b9cad4; font-size: 9px; text-align: right; }
+.og-large .og-stock-symbol { font-size: 12px; }
+.og-large .og-stock-price { font-size: 15px; }
+.og-large .og-stock-change { font-size: 12px; text-align: right; }
+
+/* Address book: opaque ink on paper, including the otherwise white hint. */
+.og-contact-search { font-size: 11px; color: #253347; background-color: transparent; border: none; border-radius: 0; padding: 0 2px; box-shadow: none; caret-color: #253347; }
+.og-contact-search .hint-text { font-size: 11px; font-weight: 400; color: #5e6b7c; }
+.og-contact-row { background-color: transparent; color: #253347; text-align: left; padding: 3px 0; }
+.og-contact-row:hover { background-color: rgba(255,255,255,0.5); }
+.og-contact-name { font-size: 12px; font-weight: 500; color: #253347; text-align: left; }
+.og-contact-detail { font-size: 10px; color: #526173; text-align: left; }
+.og-contact-status, .og-contact-empty, .og-contact-action { font-size: 10px; color: #526173; background-color: transparent; text-align: left; }
+.og-large .og-contact-name { font-size: 13px; }
+.og-large .og-contact-detail { font-size: 11px; }
+.og-large .og-contact-search, .og-large .og-contact-search .hint-text { font-size: 12px; }
+
+/* Recycle bin: metadata stays secondary to the icon, even on hover. */
+.og-trash-count { font-size: 11px; font-weight: 600; color: #e5f5fc; text-align: center; text-shadow: 0 1px 1px rgba(0,0,0,0.65); }
+.og-trash-status, .og-trash-empty { font-size: 10px; color: #e5f5fc; text-align: center; text-shadow: 0 1px 1px rgba(0,0,0,0.65); }
+.og-fluent .og-trash-count, .og-fluent .og-trash-status { color: #f2f5f8; text-align: left; text-shadow: none; }

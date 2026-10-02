@@ -1,0 +1,28 @@
+{
+  "name": "classic-desktop-gadgets",
+  "version": "2.3.0",
+  "private": true,
+  "type": "module",
+  "description": "Original Windows Vista/7 Gadget skin assets with a native GNOME 50 Ubuntu host",
+  "scripts": {
+    "test": "node --test tests/*.test.js",
+    "check": "python3 scripts/check.py",
+    "build": "python3 scripts/build.py",
+    "test:shell": "bash scripts/test-shell.sh",
+    "install:local": "python3 scripts/install.py",
+    "uninstall:local": "python3 scripts/uninstall.py",
+    "test:desktop-menu": "python3 tests/test_desktop_menu.py",
+    "test:features": "bash scripts/test-features.sh",
+    "test:options": "bash scripts/smoke-shell.sh weather --script tests/smoke/scripts/native-options.js --out build/smoke/native-options",
+    "test:gallery": "bash scripts/smoke-shell.sh clock --script tests/smoke/scripts/native-gallery.js --out build/smoke/native-gallery",
+    "test:network": "bash scripts/test-network.sh",
+    "test:network:live": "CG_TEST_TIMEOUT=180 bash scripts/smoke-shell.sh clock --script tests/smoke/scripts/network-live.js --out build/smoke/network-live",
+    "test:typography": "bash scripts/test-typography.sh",
+    "i18n:update": "python3 scripts/i18n.py update",
+    "i18n:check": "python3 scripts/i18n.py check",
+    "i18n:compile": "python3 scripts/i18n.py compile",
+    "test:i18n": "node --test tests/i18n.test.js && python3 tests/test_i18n.py && bash scripts/test-i18n.sh",
+    "pretest": "python3 scripts/i18n.py compile",
+    "pretest:i18n": "python3 scripts/i18n.py compile"
+  }
+}

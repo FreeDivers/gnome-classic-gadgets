@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.classic-gadgets" path="/org/gnome/shell/extensions/classic-gadgets/">
+    <key name="enabled-gadgets" type="as">
+      <default>['clock', 'calendar', 'system', 'notes']</default>
+      <summary>Gadgets shown on the desktop</summary>
+    </key>
+    <key name="visible" type="b"><default>true</default><summary>Show the desktop gadgets</summary></key>
+    <key name="desktop-menu" type="b"><default>true</default><summary>Integrate Add Widgets in the active desktop context menu</summary></key>
+    <key name="locked" type="b"><default>false</default><summary>Prevent dragging the gadgets</summary></key>
+    <key name="scale" type="d"><default>1.0</default><range min="0.65" max="1.6"/><summary>Gadget scale</summary></key>
+    <key name="layout" type="s"><default>'{}'</default><summary>Per-gadget monitor and work-area-relative position</summary></key>
+    <key name="options" type="s"><default>'{}'</default><summary>Per-gadget settings and persistent content, JSON</summary></key>
+    <key name="last-network-region" type="s">
+      <choices><choice value=""/><choice value="mainland"/><choice value="global"/></choices>
+      <default>''</default>
+      <summary>Last successfully detected network region, used only when a fresh startup probe fails</summary>
+    </key>
+    <key name="theme" type="s">
+      <choices><choice value="classic"/><choice value="fluent"/></choices>
+      <default>'classic'</default>
+      <summary>Skin set: classic (Windows Vista / 7 originals) or fluent (Rectify11 where available)</summary>
+    </key>
+  </schema>
+</schemalist>

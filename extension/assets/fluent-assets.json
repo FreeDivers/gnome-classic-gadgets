@@ -1,0 +1,1273 @@
+{
+  "repository": "https://github.com/Rectify11/Gadgets",
+  "commit": "a06af838755e71a75e5e9c4305046fb28721e743",
+  "source": "GPInstallerBuilder/Files64/Gadgets/<dir> for Clock.Gadget, Calendar.Gadget, CPU.Gadget, PicturePuzzle.Gadget, SlideShow.Gadget, Currency.Gadget, RecycleBin.gadget; image files only",
+  "license": "Rectify11 Gadgets pack; modified Microsoft assets; no license granted; not covered by MIT",
+  "files": [
+    {
+      "path": "Clock.Gadget/drag.png",
+      "sha256": "31476dd4645eb73fedb154ff1dec34a3d2fa996bce29fb18b309ea1978608e09",
+      "bytes": 10302
+    },
+    {
+      "path": "Clock.Gadget/icon.png",
+      "sha256": "b3ae31af0fc7f39251ed7abdcf0aac133d554efee2fe7bbee3a91f8a8743dae3",
+      "bytes": 3579
+    },
+    {
+      "path": "Clock.Gadget/images/cronometer.png",
+      "sha256": "2e8e5a035efeab2e2bc05d907b848417ab902a64015b69ef6b61709c031c30d9",
+      "bytes": 13290
+    },
+    {
+      "path": "Clock.Gadget/images/cronometer_.png",
+      "sha256": "4be81739e0b2595ef70a2575f3902bee8502dc2b64919bc8fda9b399f8d979ad",
+      "bytes": 837
+    },
+    {
+      "path": "Clock.Gadget/images/cronometer_dot.png",
+      "sha256": "d58dd71eec881ae101d2c764e847393abc8d2cc159ba787be7916a9459d311a0",
+      "bytes": 569
+    },
+    {
+      "path": "Clock.Gadget/images/cronometer_h.png",
+      "sha256": "59b02ff1f99144db2d1f390b26be26a78c3a4c03b43469ecaa458527966ac825",
+      "bytes": 471
+    },
+    {
+      "path": "Clock.Gadget/images/cronometer_m.png",
+      "sha256": "6a23ff42a0ac68e20b0b83f35323dd742e0c9da750cdae93b73fb3b87025b030",
+      "bytes": 537
+    },
+    {
+      "path": "Clock.Gadget/images/cronometer_s.png",
+      "sha256": "17512d8b62fede2a13df93ea3ffd0eb74e61cdb811ae175e37040974f1870060",
+      "bytes": 357
+    },
+    {
+      "path": "Clock.Gadget/images/cronometer_settings.png",
+      "sha256": "e2a63208e0548a68d69b121b07494115a46c18a4e824afbc5ba6e0f5afdcb1f6",
+      "bytes": 14444
+    },
+    {
+      "path": "Clock.Gadget/images/diner.png",
+      "sha256": "f23d0974e14fb4387073b655356cff96e766265110d3f5f55378dfda2145b053",
+      "bytes": 18480
+    },
+    {
+      "path": "Clock.Gadget/images/diner_.png",
+      "sha256": "ad242349071c35435ef2d7d7f49392af07ecf0b784283ed1edebcfadcbb0257b",
+      "bytes": 881
+    },
+    {
+      "path": "Clock.Gadget/images/diner_dot.png",
+      "sha256": "5fb2b0510b734f0c17140e391af97327b34e0ebcf237ce24e50771bbe87dc59a",
+      "bytes": 193
+    },
+    {
+      "path": "Clock.Gadget/images/diner_h.png",
+      "sha256": "049379ef6f791a562fcd675d175d097f3b0b3f5a25fa47a6717f2037baead903",
+      "bytes": 368
+    },
+    {
+      "path": "Clock.Gadget/images/diner_m.png",
+      "sha256": "6d96ed9c3923ff0de8251f0eddd6dde4c0fb977cef143c048f4be629d5ea41b9",
+      "bytes": 402
+    },
+    {
+      "path": "Clock.Gadget/images/diner_s.png",
+      "sha256": "d1d1f2e108e9b45033e1b89fe9da3ed8cb02b00cf520776ce1e5f02357e32b00",
+      "bytes": 2956
+    },
+    {
+      "path": "Clock.Gadget/images/diner_settings.png",
+      "sha256": "3efaa622d03c07b23fe935f044fa577016f691292855345153e488823af433d1",
+      "bytes": 19689
+    },
+    {
+      "path": "Clock.Gadget/images/flower.png",
+      "sha256": "3eda8be98feea962837eee15ca93d64605a72ead1fe9a7083c2c037efe29c536",
+      "bytes": 10409
+    },
+    {
+      "path": "Clock.Gadget/images/flower_.png",
+      "sha256": "6850f709728af1f44f88c65d2537ce43b0360c2f2aa5c7adbaf0345ab1713fdd",
+      "bytes": 1793
+    },
+    {
+      "path": "Clock.Gadget/images/flower_dot.png",
+      "sha256": "28d4d559a3fd6d67482b13b368eb8cd472bfc58ea2dc163c6bd4282acd47ce72",
+      "bytes": 348
+    },
+    {
+      "path": "Clock.Gadget/images/flower_h.png",
+      "sha256": "db324ae5ca557742866fbe4001f10a433f2a03a5303c7428afae9dafd7bcd8e0",
+      "bytes": 450
+    },
+    {
+      "path": "Clock.Gadget/images/flower_m.png",
+      "sha256": "6ce1e0658741f743bb21a7bda442faaa17686cce0b9284b86d95cf7a761e20d4",
+      "bytes": 708
+    },
+    {
+      "path": "Clock.Gadget/images/flower_s.png",
+      "sha256": "f00e44e9135cba9bc696b2fc3b0c502c57b7320d9545c7f8c1f179d059fc205a",
+      "bytes": 452
+    },
+    {
+      "path": "Clock.Gadget/images/flower_settings.png",
+      "sha256": "30bbeae1bea5b58034ec759243b46860f77049101dc89fe9763b0c472af874f8",
+      "bytes": 11873
+    },
+    {
+      "path": "Clock.Gadget/images/modern.png",
+      "sha256": "4705c68f4a378eb2d3982f050e60741e65eb91550198e970a5a12aaabf5b03eb",
+      "bytes": 12715
+    },
+    {
+      "path": "Clock.Gadget/images/modern_.png",
+      "sha256": "3a4a74a1978a0cbff36fd6fdb0a225e59584a04c38ae50499b0c00e988eece82",
+      "bytes": 1467
+    },
+    {
+      "path": "Clock.Gadget/images/modern_dot.png",
+      "sha256": "8ef4912f720a00d403e2629d554b719d27a9945c8ee735fd162cbc87357b6d0f",
+      "bytes": 2966
+    },
+    {
+      "path": "Clock.Gadget/images/modern_h.png",
+      "sha256": "1e13043c01852a7d9884db1f6ef9de288be5a22be17a1bab10f0acbb2101260d",
+      "bytes": 2922
+    },
+    {
+      "path": "Clock.Gadget/images/modern_m.png",
+      "sha256": "fb12edf1e24c3399015440f9baed8f384feff0cf273de40f6bb5a083de4854cb",
+      "bytes": 2940
+    },
+    {
+      "path": "Clock.Gadget/images/modern_s.png",
+      "sha256": "ebe0fd9b195d1875b9b98c9a256b6632d3102841e044349cb8d26db55d67f0e9",
+      "bytes": 3038
+    },
+    {
+      "path": "Clock.Gadget/images/modern_settings.png",
+      "sha256": "8338d77619f5bd19d83a1795d2a3236c6ff781fa3c312789c0affb526ebb945f",
+      "bytes": 14861
+    },
+    {
+      "path": "Clock.Gadget/images/monitor.png",
+      "sha256": "f310f17ac18c48c93b5f09edc4e74d11a8c0e418e9342af592c0c8b2ce36a1c0",
+      "bytes": 4094
+    },
+    {
+      "path": "Clock.Gadget/images/monitor_.png",
+      "sha256": "bd4c5f89f1ae95feb1cc497eca439b6bd118729fcdc55797a8e857b926f92126",
+      "bytes": 214
+    },
+    {
+      "path": "Clock.Gadget/images/monitor_dot.png",
+      "sha256": "a5af4656d7c7904c54efe017adc7136da9c1877aec6d655e5e59af4c15168de9",
+      "bytes": 243
+    },
+    {
+      "path": "Clock.Gadget/images/monitor_h.png",
+      "sha256": "96864acadec8f56099816ab184dda64bf89bdba74f724cbc2ea29969ed38c5fe",
+      "bytes": 173
+    },
+    {
+      "path": "Clock.Gadget/images/monitor_m.png",
+      "sha256": "5f4ef573367f7e98e692e3af14b4c21d63bb4fda39f4f5d58ae06d7eaf3573c2",
+      "bytes": 195
+    },
+    {
+      "path": "Clock.Gadget/images/monitor_s.png",
+      "sha256": "c37b5a59db3b863789c2a9a2732b3a0294d051126180a1025fae0320af3b68fd",
+      "bytes": 2857
+    },
+    {
+      "path": "Clock.Gadget/images/monitor_settings.png",
+      "sha256": "60389144ad70e1bc8d64bb7521203a302c11775c808bac6ca6927f29b1a82f07",
+      "bytes": 6617
+    },
+    {
+      "path": "Clock.Gadget/images/novelty.png",
+      "sha256": "693133a3d90a8ca82e4f91321cbb4c20fe02f885818ac9b0349499f522d372ed",
+      "bytes": 18362
+    },
+    {
+      "path": "Clock.Gadget/images/novelty_.png",
+      "sha256": "86428b1e9ec9583f0cc6d275e501fd2ab260c14a318d8e41d0c7c1992ececa06",
+      "bytes": 819
+    },
+    {
+      "path": "Clock.Gadget/images/novelty_dot.png",
+      "sha256": "b384c9ca00f15ff275b5a070800d12e6cea9f84b971c2fcd6065724c9105059a",
+      "bytes": 2903
+    },
+    {
+      "path": "Clock.Gadget/images/novelty_h.png",
+      "sha256": "01ec12afc80db2562a95f065ede0169b809dc76fe2ea9d4f00bde10cba9bb92b",
+      "bytes": 2959
+    },
+    {
+      "path": "Clock.Gadget/images/novelty_m.png",
+      "sha256": "e1052e7226361ce0b80878511be15832ebf8038bb5bcca1e9054508a3ce9ca46",
+      "bytes": 2979
+    },
+    {
+      "path": "Clock.Gadget/images/novelty_s.png",
+      "sha256": "316bcd75ee5816c1f70238ae7bd81f64ec2441ca17e440ce26698ef244f5057a",
+      "bytes": 2919
+    },
+    {
+      "path": "Clock.Gadget/images/novelty_settings.png",
+      "sha256": "90debe7602437e7fe2f3f72d25797ebe7a8d731ab7770fff9fa21b0f7f6046ac",
+      "bytes": 18755
+    },
+    {
+      "path": "Clock.Gadget/images/settings_box_bottom.png",
+      "sha256": "866655d0fedc035ce74f42b9231e9aa85f673921fa6d4989b3215564f9793144",
+      "bytes": 89
+    },
+    {
+      "path": "Clock.Gadget/images/settings_box_divider_left.png",
+      "sha256": "3080385c4f3aa7e3f1a3ed9b0a6aa96adaf98149d6dd394b11fbd6a8ec947758",
+      "bytes": 130
+    },
+    {
+      "path": "Clock.Gadget/images/settings_box_divider_right.png",
+      "sha256": "3080385c4f3aa7e3f1a3ed9b0a6aa96adaf98149d6dd394b11fbd6a8ec947758",
+      "bytes": 130
+    },
+    {
+      "path": "Clock.Gadget/images/settings_box_left.png",
+      "sha256": "8168bff7c4d9211ebe08bfb2ddbef377b8fb2b49f0c4256a35a7e0083c75d8a1",
+      "bytes": 89
+    },
+    {
+      "path": "Clock.Gadget/images/settings_box_right.png",
+      "sha256": "8168bff7c4d9211ebe08bfb2ddbef377b8fb2b49f0c4256a35a7e0083c75d8a1",
+      "bytes": 89
+    },
+    {
+      "path": "Clock.Gadget/images/settings_box_top.png",
+      "sha256": "47c6c84dc895482fc4c78ee0d8a296f044e9f1379e2a577fff2c48990b8df55c",
+      "bytes": 130
+    },
+    {
+      "path": "Clock.Gadget/images/settings_corner_bottom_left.png",
+      "sha256": "c7b70dc88a2f60d40221d66a73d4c7704c0fdd14454283f7839c93fb34e6e5f1",
+      "bytes": 131
+    },
+    {
+      "path": "Clock.Gadget/images/settings_corner_bottom_right.png",
+      "sha256": "c7b70dc88a2f60d40221d66a73d4c7704c0fdd14454283f7839c93fb34e6e5f1",
+      "bytes": 131
+    },
+    {
+      "path": "Clock.Gadget/images/settings_corner_top_left.png",
+      "sha256": "c7b70dc88a2f60d40221d66a73d4c7704c0fdd14454283f7839c93fb34e6e5f1",
+      "bytes": 131
+    },
+    {
+      "path": "Clock.Gadget/images/settings_corner_top_right.png",
+      "sha256": "c7b70dc88a2f60d40221d66a73d4c7704c0fdd14454283f7839c93fb34e6e5f1",
+      "bytes": 131
+    },
+    {
+      "path": "Clock.Gadget/images/settings_divider.png",
+      "sha256": "2ba3125bf59370cb7eb3c6c4f9f2f53b37c9e3b547adfa262c662d648f9bf298",
+      "bytes": 130
+    },
+    {
+      "path": "Clock.Gadget/images/settings_divider_left.png",
+      "sha256": "4d3782c0fb507d09af18fe2cdc6bf3bbeb0afdc86a238f8312bebf48dea57359",
+      "bytes": 131
+    },
+    {
+      "path": "Clock.Gadget/images/settings_divider_right.png",
+      "sha256": "4d3782c0fb507d09af18fe2cdc6bf3bbeb0afdc86a238f8312bebf48dea57359",
+      "bytes": 131
+    },
+    {
+      "path": "Clock.Gadget/images/settings_left_disabled.png",
+      "sha256": "c1636a9e09bb4c250c44732d2af393911948b8feeb77d1283c4c6567be2dbb75",
+      "bytes": 541
+    },
+    {
+      "path": "Clock.Gadget/images/settings_left_hover.png",
+      "sha256": "3a7e4f15a8e5bf10929f16157ccb94872848ddbb891618441a7ac086469ef88d",
+      "bytes": 460
+    },
+    {
+      "path": "Clock.Gadget/images/settings_left_pressed.png",
+      "sha256": "97a8bb62a05eb69f9932227824a7261dfb788854df991c4d8f9ae3fab2cd1eed",
+      "bytes": 464
+    },
+    {
+      "path": "Clock.Gadget/images/settings_left_rest.png",
+      "sha256": "5c147a1f1b132b0818f970aa25f3a11ecad3c914648b12740828fe88bb282d64",
+      "bytes": 490
+    },
+    {
+      "path": "Clock.Gadget/images/settings_right_disabled.png",
+      "sha256": "e2dd0710961e8dd24e9f5f6a486786d1559e445702cb4db330ce81979ac2081d",
+      "bytes": 562
+    },
+    {
+      "path": "Clock.Gadget/images/settings_right_hover.png",
+      "sha256": "55d93da7e9ddd9d473b01591551a9cceef4d29cfbad5a1ac05b94042153c4b98",
+      "bytes": 480
+    },
+    {
+      "path": "Clock.Gadget/images/settings_right_pressed.png",
+      "sha256": "203d7dca41e160bcb875a47dbb825e17b91762910434a180db7285336fed0de2",
+      "bytes": 485
+    },
+    {
+      "path": "Clock.Gadget/images/settings_right_rest.png",
+      "sha256": "2202a1e07ddf0620d645e8ae29cb538d6bfb4f728fa4fcd320cf5d592bd77222",
+      "bytes": 514
+    },
+    {
+      "path": "Clock.Gadget/images/spacer_highlights.png",
+      "sha256": "6a2aa1deb597683291f38363ae98fb94b5da21462c1c35dcc43e57f2b8142853",
+      "bytes": 187
+    },
+    {
+      "path": "Clock.Gadget/images/square.png",
+      "sha256": "8d0cb22c2bbeab5745ff6bf574716e49714acedd6d9ddbf52b2e03578feee7b6",
+      "bytes": 8543
+    },
+    {
+      "path": "Clock.Gadget/images/square_.png",
+      "sha256": "7a4ecf3998d1c72ea021ee6bbd73607569bfb3e605663edde83452faf0cca3de",
+      "bytes": 211
+    },
+    {
+      "path": "Clock.Gadget/images/square_dot.png",
+      "sha256": "d0d8dd3bb18bf4338958b98d19eaf2c5b7fb9a41c6756df213dbf76d99d2570a",
+      "bytes": 240
+    },
+    {
+      "path": "Clock.Gadget/images/square_h.png",
+      "sha256": "f6984c76dc3d55cc0ffc0eb2845fae79444a3fe87e385bd14c856c1cb970a780",
+      "bytes": 475
+    },
+    {
+      "path": "Clock.Gadget/images/square_m.png",
+      "sha256": "10edc5e9cc161685ce0176c3afe14971bb14940518af65c28d56ae4dddb0665c",
+      "bytes": 458
+    },
+    {
+      "path": "Clock.Gadget/images/square_s.png",
+      "sha256": "90f16256cb656082a62f6b14426c4a82d292778374d7adbc274dc68302e04fb4",
+      "bytes": 3119
+    },
+    {
+      "path": "Clock.Gadget/images/square_settings.png",
+      "sha256": "8575b7ff7a04ab030a82f7becdef744e68b4b76d316d701ae9500cbd231141b6",
+      "bytes": 13938
+    },
+    {
+      "path": "Clock.Gadget/images/system.png",
+      "sha256": "b965bef9e24fec46aeacdc9d4c453e980d61f5be066a98f4fb874d5e5805f18e",
+      "bytes": 10293
+    },
+    {
+      "path": "Clock.Gadget/images/system_.png",
+      "sha256": "db63479cfc2cb89dc376a7e81bb4af894ff097a1613a909b6edb50ebb223d75a",
+      "bytes": 776
+    },
+    {
+      "path": "Clock.Gadget/images/system_dot.png",
+      "sha256": "7fbdfe5e9079aa2c6df8118c878d295850b1c8cc41a1a97c44a0fe68bfb81122",
+      "bytes": 170
+    },
+    {
+      "path": "Clock.Gadget/images/system_h.png",
+      "sha256": "3c934dff56f6da5df60ea5119da47ac164151157c820368862e7207ae6c7e962",
+      "bytes": 135
+    },
+    {
+      "path": "Clock.Gadget/images/system_m.png",
+      "sha256": "7decb19ab4083ebbad9e1e078ba33bc1d0d73c0884d5f71fd07af200054863ab",
+      "bytes": 136
+    },
+    {
+      "path": "Clock.Gadget/images/system_s.png",
+      "sha256": "f7fe2cd424325d6811f9f5a7e4f6bf4ad13d12d2ee8309281c0cd06deb546cd1",
+      "bytes": 263
+    },
+    {
+      "path": "Clock.Gadget/images/system_settings.png",
+      "sha256": "8023c2d4370a14f158b7b700ffff6ab1b91a0cab9d585d6074aab1c3b213a8e1",
+      "bytes": 12827
+    },
+    {
+      "path": "Clock.Gadget/images/trad.png",
+      "sha256": "562f73f469eb3358b1c1aba3ad41406d42a5a3a80622cdf296c9c69ab948b7cb",
+      "bytes": 16111
+    },
+    {
+      "path": "Clock.Gadget/images/trad_.png",
+      "sha256": "8b61214cc4211f65bd20e6a4045c6324bb87c40d5ab558e3f945a1b4bc9cc0b5",
+      "bytes": 2949
+    },
+    {
+      "path": "Clock.Gadget/images/trad_dot.png",
+      "sha256": "e8ea1afdc3b00162ccbd87a4ea99ed204d642fd8d1cb90039ead7a91788258b2",
+      "bytes": 313
+    },
+    {
+      "path": "Clock.Gadget/images/trad_h.png",
+      "sha256": "9663ed2d5514d8fc4a671fe3c5c04df62ee981f676f23093e35b3bd1758a4c90",
+      "bytes": 620
+    },
+    {
+      "path": "Clock.Gadget/images/trad_m.png",
+      "sha256": "90c51957fb9b5cbac4c06776b91b0286b0f5da98de05a113d29513542794f688",
+      "bytes": 731
+    },
+    {
+      "path": "Clock.Gadget/images/trad_s.png",
+      "sha256": "d8d308f28a8ecdfcc39325742ad3e4559283d98ceb5d5926dbb97ea4c65c4d7f",
+      "bytes": 409
+    },
+    {
+      "path": "Clock.Gadget/images/trad_settings.png",
+      "sha256": "0c83d833ae87602f322d71972d4364be2f066e80caa8b5d4aef6713f9c108e43",
+      "bytes": 17691
+    },
+    {
+      "path": "Clock.Gadget/images/tradold.png",
+      "sha256": "f12e39513c5e3eb12f4628877c7d68f85eb4460bda49d23e78eeba9591b737a1",
+      "bytes": 15140
+    },
+    {
+      "path": "Clock.Gadget/logo.png",
+      "sha256": "e635a041cb74dee326b7c32384e9ae18eed3d23f865a0f1e50c15a59cf3af362",
+      "bytes": 213
+    },
+    {
+      "path": "Calendar.Gadget/drag.png",
+      "sha256": "b02a6fea78170d68e8c44131e3b66d67619059d42082ec0a66dbf9fadb83ec4c",
+      "bytes": 10357
+    },
+    {
+      "path": "Calendar.Gadget/icon.png",
+      "sha256": "2b37ca680b43545e38b72e961efda5653c611be3f95b48fdb15d9183c95e2a7e",
+      "bytes": 2444
+    },
+    {
+      "path": "Calendar.Gadget/images/bNext-disable.png",
+      "sha256": "4966b8fc2295f797d659ea9549edec819b63138138b7a63e19d462172b00544c",
+      "bytes": 248
+    },
+    {
+      "path": "Calendar.Gadget/images/bNext-down.png",
+      "sha256": "49fc53b0879a518f340281bda71d7194c6f19c88a74af06fc90f982aedad895e",
+      "bytes": 266
+    },
+    {
+      "path": "Calendar.Gadget/images/bNext-hot.png",
+      "sha256": "22dee2cb416430faaaf55d53f9867222d6f2fa628cf3f939f5bbae4360fc551f",
+      "bytes": 320
+    },
+    {
+      "path": "Calendar.Gadget/images/bNext.png",
+      "sha256": "d0ab07f710f1b12e68f564d895ec8cad91c853c46bbfd87bd54c19999f2b54ff",
+      "bytes": 211
+    },
+    {
+      "path": "Calendar.Gadget/images/bPrev-disable.png",
+      "sha256": "aaaa44b802a853399acc438c3380d54135070f17c57f8f9dba08f91cf6b8111a",
+      "bytes": 257
+    },
+    {
+      "path": "Calendar.Gadget/images/bPrev-down.png",
+      "sha256": "a82b76c97f392dd68f02d502e4e979e7216abe9bc505b54d9359af04eca720ad",
+      "bytes": 258
+    },
+    {
+      "path": "Calendar.Gadget/images/bPrev-hot.png",
+      "sha256": "7869fe446ec84d41e9345805dd5f8ff15ce2bfe5365c34291a26e73a34a7884d",
+      "bytes": 316
+    },
+    {
+      "path": "Calendar.Gadget/images/bPrev.png",
+      "sha256": "1b9ffe1c53554b94192adf668c5d0c239d297ef74c93b793bdc21a181643aa30",
+      "bytes": 219
+    },
+    {
+      "path": "Calendar.Gadget/images/bg-desk.png",
+      "sha256": "939c331c43e1615c163dd218631fceb7e7967da7f027ac2a2726883f201634db",
+      "bytes": 4034
+    },
+    {
+      "path": "Calendar.Gadget/images/bg-dock.png",
+      "sha256": "380a868e9b68037510aa24ec8935746097488f70808951424e9f6d33ceb041c8",
+      "bytes": 1761
+    },
+    {
+      "path": "Calendar.Gadget/images/bg-today.png",
+      "sha256": "10bdd35914b897afc263cbc285f5bb0500d33fb6b18479133811aee735497a2b",
+      "bytes": 12535
+    },
+    {
+      "path": "Calendar.Gadget/images/calendar_double.png",
+      "sha256": "921131d3062c94be9043938dc720a34ccb962798a8634d2c02902803f6dae9e2",
+      "bytes": 4779
+    },
+    {
+      "path": "Calendar.Gadget/images/calendar_double_bkg.png",
+      "sha256": "54523e8f81a1e4a9933bf17cb76aadbb9976f4d3257b4462e59a37f2d8732493",
+      "bytes": 1545
+    },
+    {
+      "path": "Calendar.Gadget/images/calendar_double_orange.png",
+      "sha256": "86d0e54e270406b634793f37e8f6411ca256c914c6c5691d29c19a09914fe953",
+      "bytes": 16846
+    },
+    {
+      "path": "Calendar.Gadget/images/calendar_ring_docked.png",
+      "sha256": "d940158178cd19f766ae088f8a6263f002e6d5bbcce4e1e09cf35fa5cc85c09c",
+      "bytes": 564
+    },
+    {
+      "path": "Calendar.Gadget/images/calendar_single.png",
+      "sha256": "dcfd89e13fabb3aa9efc3a18826ec178cc48e422fbd155df402df763f07b5885",
+      "bytes": 2043
+    },
+    {
+      "path": "Calendar.Gadget/images/calendar_single_bkg.png",
+      "sha256": "9975c1953d730cf15dd80d871b3ec9724b6060c5be6f90cc8817e34588d025aa",
+      "bytes": 578
+    },
+    {
+      "path": "Calendar.Gadget/images/calendar_single_bkg_orange.png",
+      "sha256": "4dfeb31e2bdf962a4b6fca679e817f9faddb2e60a31e1ecab0f85ca5019d8de9",
+      "bytes": 12604
+    },
+    {
+      "path": "Calendar.Gadget/images/calendar_single_orange.png",
+      "sha256": "77a20710ca713f20cf5624ab217d97a799e030e1a878bd78906ade3886ca879e",
+      "bytes": 13772
+    },
+    {
+      "path": "Calendar.Gadget/images/corner.png",
+      "sha256": "9084cc06a9d3e90e215090d3c997564fd901af8a2c1d155c74d9fe3e8c9be22e",
+      "bytes": 104
+    },
+    {
+      "path": "Calendar.Gadget/images/curl-hot.png",
+      "sha256": "44f23703699a2cf9a6a243173bbe9219d79a52252188ac440242202cca2783b5",
+      "bytes": 344
+    },
+    {
+      "path": "Calendar.Gadget/images/curl.png",
+      "sha256": "b4dfc8eac5b048c268db7ea79853dc84e870779eb60aa58ea07118f7d54b8bb1",
+      "bytes": 221
+    },
+    {
+      "path": "Calendar.Gadget/images/month.png",
+      "sha256": "7c778324f6e69b3fc0c132e0f22e02ca77eabad84f45584d0b780eb2a64d6c14",
+      "bytes": 150
+    },
+    {
+      "path": "Calendar.Gadget/images/rings-desk.png",
+      "sha256": "5ed22e5cc841d0ae6c2f33e37f1ceb645e370e06183cd9d739034a0974036629",
+      "bytes": 895
+    },
+    {
+      "path": "Calendar.Gadget/images/rings-dock.png",
+      "sha256": "444d1992a67628fbe0cd248d563ab954ad75cafeec2b973c90c02de727c8909c",
+      "bytes": 612
+    },
+    {
+      "path": "Calendar.Gadget/logo.png",
+      "sha256": "e635a041cb74dee326b7c32384e9ae18eed3d23f865a0f1e50c15a59cf3af362",
+      "bytes": 213
+    },
+    {
+      "path": "CPU.Gadget/drag.png",
+      "sha256": "290a92c63fa35ee8683d94003d872e418d59e3cf3707213c2a0a7d982340f804",
+      "bytes": 13542
+    },
+    {
+      "path": "CPU.Gadget/en-US/logo.png",
+      "sha256": "e635a041cb74dee326b7c32384e9ae18eed3d23f865a0f1e50c15a59cf3af362",
+      "bytes": 213
+    },
+    {
+      "path": "CPU.Gadget/icon.png",
+      "sha256": "5b061199dcc3a49665ff505dc3206de3bb379ff83d6443f8a1e3b954b2f63d2c",
+      "bytes": 3045
+    },
+    {
+      "path": "CPU.Gadget/images/back.png",
+      "sha256": "dc5a4c5ac5327fbee3165e526654fea9e7eb0d49c9ff6ec7e2bcb91276f3c613",
+      "bytes": 11421
+    },
+    {
+      "path": "CPU.Gadget/images/back_.png",
+      "sha256": "62edbd9b0cecc0ae9817555560a23efc549fd45043aced0b2ac830c30b3456bc",
+      "bytes": 152
+    },
+    {
+      "path": "CPU.Gadget/images/back_lrg.png",
+      "sha256": "e0f7fc1107bef0d588c5a98d27ebfa2bc5fe87717f6d525592bafe00f05c23de",
+      "bytes": 21144
+    },
+    {
+      "path": "CPU.Gadget/images/back_lrg_.png",
+      "sha256": "cd390e05669640236b63744a6a7378bea555ebeb09a707cae61640140c10b6fc",
+      "bytes": 223
+    },
+    {
+      "path": "CPU.Gadget/images/dial.png",
+      "sha256": "01d6e05e9e5efb3ffcea9a8ba79901cd5f52b427aa1a558bdb960502c1f56eee",
+      "bytes": 434
+    },
+    {
+      "path": "CPU.Gadget/images/dial_lrg.png",
+      "sha256": "a188870cbbab82f5229f5e76b04d80d7e94f8be540f6d5d08fcac7e0d318e736",
+      "bytes": 627
+    },
+    {
+      "path": "CPU.Gadget/images/dial_lrg_sml.png",
+      "sha256": "e063bdeb25ad0bebdba066e3898dfc123526b45a30837befc3b0fbf1d82b55c4",
+      "bytes": 658
+    },
+    {
+      "path": "CPU.Gadget/images/dial_sml.png",
+      "sha256": "d6b69478aab0e2489d0d557f0a2cdc78f8989a91f21719a4c89144197413a414",
+      "bytes": 433
+    },
+    {
+      "path": "CPU.Gadget/images/dialdot.png",
+      "sha256": "5851918c32e68c1efc4c7c39ff4070cf1ae0bb0d13880dbdb5720295bef97482",
+      "bytes": 2605
+    },
+    {
+      "path": "CPU.Gadget/images/dialdot_lrg.png",
+      "sha256": "0cfbafbaf413de744982889e93466b84709145b6a1da5ae501109f19496d4a31",
+      "bytes": 2584
+    },
+    {
+      "path": "CPU.Gadget/images/glass.png",
+      "sha256": "b68456d14194e5d9660c6622dfac3688627a870c5ff74bef1f44ab78ad925080",
+      "bytes": 308
+    },
+    {
+      "path": "CPU.Gadget/images/glass_lrg.png",
+      "sha256": "e9f865ec8acd0deb7d004ca8dc6a9eb17e8e1a46892509a913132d6e2fb65dc0",
+      "bytes": 443
+    },
+    {
+      "path": "CPU.Gadget/logo.png",
+      "sha256": "e635a041cb74dee326b7c32384e9ae18eed3d23f865a0f1e50c15a59cf3af362",
+      "bytes": 213
+    },
+    {
+      "path": "PicturePuzzle.Gadget/Images/0.png",
+      "sha256": "b22ee71447a2b5813ea79efd8d00cb489272569814d64a44a6d5d300840b2479",
+      "bytes": 310
+    },
+    {
+      "path": "PicturePuzzle.Gadget/Images/1.png",
+      "sha256": "5a1432a5c8dac3def019c899ebf73819102cf090ad1edabd6caf5bd811fdfcb0",
+      "bytes": 22717
+    },
+    {
+      "path": "PicturePuzzle.Gadget/Images/10.png",
+      "sha256": "0a696f8f9fc4924b869a6bc15cc1e4d5ec6b500f11c8d6bbcc767d93b41001f2",
+      "bytes": 24003
+    },
+    {
+      "path": "PicturePuzzle.Gadget/Images/11.png",
+      "sha256": "73839687b7ffc5b0d6bff42fbeffadf2ca7432891908da0823573e41cc45cb7c",
+      "bytes": 11401
+    },
+    {
+      "path": "PicturePuzzle.Gadget/Images/2.png",
+      "sha256": "0de52ac05fc65f286c90ed2170af700a6428065d9c776f59981aff3c954db88b",
+      "bytes": 28252
+    },
+    {
+      "path": "PicturePuzzle.Gadget/Images/3.png",
+      "sha256": "011d4c7793e3f51352bf5ff53a3f94e24c11f343623668fa2c3da0355dfe011e",
+      "bytes": 22340
+    },
+    {
+      "path": "PicturePuzzle.Gadget/Images/4.png",
+      "sha256": "729f4149290b2cf1df7198295fe96cb532bbff11c27d48424a1410a00123fe41",
+      "bytes": 13584
+    },
+    {
+      "path": "PicturePuzzle.Gadget/Images/5.png",
+      "sha256": "c152f0737a6456dc758365d9a0618eb002089936c034ba45070a0ef9690cc914",
+      "bytes": 15959
+    },
+    {
+      "path": "PicturePuzzle.Gadget/Images/6.png",
+      "sha256": "e65d45c6714883e3a84f85a33665ec6a337dbd74368fa3ee07ed691ba8196377",
+      "bytes": 15490
+    },
+    {
+      "path": "PicturePuzzle.Gadget/Images/7.png",
+      "sha256": "d070db9bfa8ed7b81c7bfad447e316fa412ce7b49bb5bc90d70793f50a17721c",
+      "bytes": 7455
+    },
+    {
+      "path": "PicturePuzzle.Gadget/Images/8.png",
+      "sha256": "1f848b6f6a9d1720e1c407f058b7521c2b6e72ccab60181891332707f2629c86",
+      "bytes": 20058
+    },
+    {
+      "path": "PicturePuzzle.Gadget/Images/9.png",
+      "sha256": "82937fa8ae4e13412dddb2ff1514760d118e56c8e49032eb6277808f0fb48c0d",
+      "bytes": 18181
+    },
+    {
+      "path": "PicturePuzzle.Gadget/Images/background.png",
+      "sha256": "f0753dd60d46e7fadeff450455f2f8a5aadf67017bb63aec31dbf78221deac7d",
+      "bytes": 13960
+    },
+    {
+      "path": "PicturePuzzle.Gadget/Images/background_.png",
+      "sha256": "2e18e161c463bfce4b29eab41fb7c61dd2ebcc3b4af90f39743c2c1f13570b7e",
+      "bytes": 11826
+    },
+    {
+      "path": "PicturePuzzle.Gadget/Images/daisies.png",
+      "sha256": "401053eb3876b5e6e857a0d53bad380d35bb866f48aa9d3f7f9b0fb8308da4b0",
+      "bytes": 18522
+    },
+    {
+      "path": "PicturePuzzle.Gadget/Images/glow.png",
+      "sha256": "c354eaa429dda42e60a3ebbe7410f32d5b70de9293b1fb1d69a412a77c8cca45",
+      "bytes": 193
+    },
+    {
+      "path": "PicturePuzzle.Gadget/Images/hint_down.png",
+      "sha256": "d194e3c5beb8709de4d3ec6c238877f32c9e61b85a716f4a645a1eed4e800094",
+      "bytes": 3445
+    },
+    {
+      "path": "PicturePuzzle.Gadget/Images/hint_over.png",
+      "sha256": "0afddc343bd411a129d9a9e0564f17c16ace26064a0f2f083a272e36d97b2b91",
+      "bytes": 3332
+    },
+    {
+      "path": "PicturePuzzle.Gadget/Images/hint_up.png",
+      "sha256": "fd7561a2305aa692e4a14a1f7911839bf751ed1ca6fb9202435d851839de5fea",
+      "bytes": 3381
+    },
+    {
+      "path": "PicturePuzzle.Gadget/Images/setting_back.png",
+      "sha256": "b833ca852082cfb1be88d37b7ca053518227b86c74fea2a96c3a904e9d4076ac",
+      "bytes": 382
+    },
+    {
+      "path": "PicturePuzzle.Gadget/Images/settings_box_bottom.png",
+      "sha256": "866655d0fedc035ce74f42b9231e9aa85f673921fa6d4989b3215564f9793144",
+      "bytes": 89
+    },
+    {
+      "path": "PicturePuzzle.Gadget/Images/settings_box_divider_left.png",
+      "sha256": "3080385c4f3aa7e3f1a3ed9b0a6aa96adaf98149d6dd394b11fbd6a8ec947758",
+      "bytes": 130
+    },
+    {
+      "path": "PicturePuzzle.Gadget/Images/settings_box_divider_right.png",
+      "sha256": "3080385c4f3aa7e3f1a3ed9b0a6aa96adaf98149d6dd394b11fbd6a8ec947758",
+      "bytes": 130
+    },
+    {
+      "path": "PicturePuzzle.Gadget/Images/settings_box_left.png",
+      "sha256": "8168bff7c4d9211ebe08bfb2ddbef377b8fb2b49f0c4256a35a7e0083c75d8a1",
+      "bytes": 89
+    },
+    {
+      "path": "PicturePuzzle.Gadget/Images/settings_box_right.png",
+      "sha256": "8168bff7c4d9211ebe08bfb2ddbef377b8fb2b49f0c4256a35a7e0083c75d8a1",
+      "bytes": 89
+    },
+    {
+      "path": "PicturePuzzle.Gadget/Images/settings_box_top.png",
+      "sha256": "47c6c84dc895482fc4c78ee0d8a296f044e9f1379e2a577fff2c48990b8df55c",
+      "bytes": 130
+    },
+    {
+      "path": "PicturePuzzle.Gadget/Images/settings_corner_bottom_left.png",
+      "sha256": "c7b70dc88a2f60d40221d66a73d4c7704c0fdd14454283f7839c93fb34e6e5f1",
+      "bytes": 131
+    },
+    {
+      "path": "PicturePuzzle.Gadget/Images/settings_corner_bottom_right.png",
+      "sha256": "c7b70dc88a2f60d40221d66a73d4c7704c0fdd14454283f7839c93fb34e6e5f1",
+      "bytes": 131
+    },
+    {
+      "path": "PicturePuzzle.Gadget/Images/settings_corner_top_left.png",
+      "sha256": "c7b70dc88a2f60d40221d66a73d4c7704c0fdd14454283f7839c93fb34e6e5f1",
+      "bytes": 131
+    },
+    {
+      "path": "PicturePuzzle.Gadget/Images/settings_corner_top_right.png",
+      "sha256": "c7b70dc88a2f60d40221d66a73d4c7704c0fdd14454283f7839c93fb34e6e5f1",
+      "bytes": 131
+    },
+    {
+      "path": "PicturePuzzle.Gadget/Images/settings_divider.png",
+      "sha256": "2ba3125bf59370cb7eb3c6c4f9f2f53b37c9e3b547adfa262c662d648f9bf298",
+      "bytes": 130
+    },
+    {
+      "path": "PicturePuzzle.Gadget/Images/settings_divider_left.png",
+      "sha256": "4d3782c0fb507d09af18fe2cdc6bf3bbeb0afdc86a238f8312bebf48dea57359",
+      "bytes": 131
+    },
+    {
+      "path": "PicturePuzzle.Gadget/Images/settings_divider_right.png",
+      "sha256": "4d3782c0fb507d09af18fe2cdc6bf3bbeb0afdc86a238f8312bebf48dea57359",
+      "bytes": 131
+    },
+    {
+      "path": "PicturePuzzle.Gadget/Images/settings_left_disabled.png",
+      "sha256": "c1636a9e09bb4c250c44732d2af393911948b8feeb77d1283c4c6567be2dbb75",
+      "bytes": 541
+    },
+    {
+      "path": "PicturePuzzle.Gadget/Images/settings_left_hover.png",
+      "sha256": "3a7e4f15a8e5bf10929f16157ccb94872848ddbb891618441a7ac086469ef88d",
+      "bytes": 460
+    },
+    {
+      "path": "PicturePuzzle.Gadget/Images/settings_left_pressed.png",
+      "sha256": "97a8bb62a05eb69f9932227824a7261dfb788854df991c4d8f9ae3fab2cd1eed",
+      "bytes": 464
+    },
+    {
+      "path": "PicturePuzzle.Gadget/Images/settings_left_rest.png",
+      "sha256": "5c147a1f1b132b0818f970aa25f3a11ecad3c914648b12740828fe88bb282d64",
+      "bytes": 490
+    },
+    {
+      "path": "PicturePuzzle.Gadget/Images/settings_right_disabled.png",
+      "sha256": "e2dd0710961e8dd24e9f5f6a486786d1559e445702cb4db330ce81979ac2081d",
+      "bytes": 562
+    },
+    {
+      "path": "PicturePuzzle.Gadget/Images/settings_right_hover.png",
+      "sha256": "55d93da7e9ddd9d473b01591551a9cceef4d29cfbad5a1ac05b94042153c4b98",
+      "bytes": 480
+    },
+    {
+      "path": "PicturePuzzle.Gadget/Images/settings_right_pressed.png",
+      "sha256": "203d7dca41e160bcb875a47dbb825e17b91762910434a180db7285336fed0de2",
+      "bytes": 485
+    },
+    {
+      "path": "PicturePuzzle.Gadget/Images/settings_right_rest.png",
+      "sha256": "2202a1e07ddf0620d645e8ae29cb538d6bfb4f728fa4fcd320cf5d592bd77222",
+      "bytes": 514
+    },
+    {
+      "path": "PicturePuzzle.Gadget/Images/shuffle_down.png",
+      "sha256": "d5340a78ba0391d85806d6bd249f5fdcd9449f3a0add141fe4b5d20e0a25e86d",
+      "bytes": 3471
+    },
+    {
+      "path": "PicturePuzzle.Gadget/Images/shuffle_over.png",
+      "sha256": "ad8800d5a8de2254aa021cfb4707934ca1a4afc34437ab425fdc635ac4f8137e",
+      "bytes": 3379
+    },
+    {
+      "path": "PicturePuzzle.Gadget/Images/shuffle_up.png",
+      "sha256": "699883cf885da7fde8ddda463ddf29959ddd701283cb38941da7c7a5fe834666",
+      "bytes": 3421
+    },
+    {
+      "path": "PicturePuzzle.Gadget/Images/tile16.png",
+      "sha256": "e35fb05fbcd626ed54792b94586b3656408d2715ca09f4405ddfb446e77e5161",
+      "bytes": 220
+    },
+    {
+      "path": "PicturePuzzle.Gadget/Images/tile_bezel.png",
+      "sha256": "ef73ea5193d439ed5a02f3c4665a9fb1425a64e9f6546f1b996e3c1df96a4ef5",
+      "bytes": 936
+    },
+    {
+      "path": "PicturePuzzle.Gadget/Images/tile_drop_shadow.png",
+      "sha256": "0e3c248c3e01f99e0ff7c05066934f93883b22c28ec29c6a1dd47cd2ea98d448",
+      "bytes": 1026
+    },
+    {
+      "path": "PicturePuzzle.Gadget/Images/timer_down.png",
+      "sha256": "6c1142e76f7866676bd406d6d8d3d34ac8a32d6a9999b343054643474775ab2a",
+      "bytes": 3388
+    },
+    {
+      "path": "PicturePuzzle.Gadget/Images/timer_over.png",
+      "sha256": "b0a6b205fcdffe0f35b3d93ce12779f7b703ed80d8a7d383475cde80632c3a0d",
+      "bytes": 3383
+    },
+    {
+      "path": "PicturePuzzle.Gadget/Images/timer_up.png",
+      "sha256": "955117e275378e4420529fa50eb7d88eab2361d89f701be36e250895b6815402",
+      "bytes": 3300
+    },
+    {
+      "path": "PicturePuzzle.Gadget/drag.png",
+      "sha256": "dc54bc4dc7bc08ed87e1d3ca4f4b5a752b6582e4e016a6d3357b16c50f96fafd",
+      "bytes": 17853
+    },
+    {
+      "path": "PicturePuzzle.Gadget/icon.png",
+      "sha256": "cf230c670906e049349a96b7e95d5228c1494c9a35228e574eea8cb4cf0d62a4",
+      "bytes": 6287
+    },
+    {
+      "path": "PicturePuzzle.Gadget/logo.png",
+      "sha256": "e635a041cb74dee326b7c32384e9ae18eed3d23f865a0f1e50c15a59cf3af362",
+      "bytes": 213
+    },
+    {
+      "path": "SlideShow.Gadget/drag.png",
+      "sha256": "367516d284bc8ff94f890c7fbdfad993e1d0785e502593646f20cfb5918bae24",
+      "bytes": 10627
+    },
+    {
+      "path": "SlideShow.Gadget/icon.png",
+      "sha256": "3b839b6cd15e205bd7023caf37e1b60091d7e7217353c50a56a0c0ae8c502b04",
+      "bytes": 3042
+    },
+    {
+      "path": "SlideShow.Gadget/images/blank.png",
+      "sha256": "0d08bd6d560c8bda07de521cab2bdd0acd8c63fb2b1febe1eb44a896a66e8b17",
+      "bytes": 572
+    },
+    {
+      "path": "SlideShow.Gadget/images/image.png",
+      "sha256": "2e7a7fd80d9b7036e1a6d9467e03bbfe03e848e526fffb619e9bd9ff1f1a96ef",
+      "bytes": 467307
+    },
+    {
+      "path": "SlideShow.Gadget/images/in_sidebar/backsplit.png",
+      "sha256": "b6e3398e19de0a4e58f1dbd4c7f082c728fdaac22c1efb2b9e14472a36542510",
+      "bytes": 31746
+    },
+    {
+      "path": "SlideShow.Gadget/images/in_sidebar/bg_sidebar.png",
+      "sha256": "cec0f0e5e779018d0076d2cef2163efdf739eb5966b156fe36c23e9c05c21f45",
+      "bytes": 905
+    },
+    {
+      "path": "SlideShow.Gadget/images/in_sidebar/overlay.png",
+      "sha256": "2565e262da943884a602cb85454e170f95bd740ef5502092d8f1b84d6fbde7b9",
+      "bytes": 5867
+    },
+    {
+      "path": "SlideShow.Gadget/images/in_sidebar/slideshow_glass_frame.png",
+      "sha256": "e993916e9e9ff712838977da493de0ad975cdbedb5f2d5ab2e8b825687a316d0",
+      "bytes": 30931
+    },
+    {
+      "path": "SlideShow.Gadget/images/in_sidebar/slideshow_glass_frame_transparent.png",
+      "sha256": "6f46afe3941bd1870d8bb013b61dd0f4db501b4a46a81ef8b3fa764966743800",
+      "bytes": 33255
+    },
+    {
+      "path": "SlideShow.Gadget/images/next_down.png",
+      "sha256": "ba1f5b71c762780411a2a4e1b7fa0269f08ababc7e655af61458875782343e29",
+      "bytes": 3063
+    },
+    {
+      "path": "SlideShow.Gadget/images/next_hov.png",
+      "sha256": "923afff70bc030d4d91b2d3470adf0b5f80a56270e5559088c8491edb3af4a7a",
+      "bytes": 3065
+    },
+    {
+      "path": "SlideShow.Gadget/images/next_rest.png",
+      "sha256": "c881c9619a63d2081ceac1a243684d9eff920548890a4e99bba190ee32e7cdd9",
+      "bytes": 2903
+    },
+    {
+      "path": "SlideShow.Gadget/images/on_desktop/slideshow_glass_frame.png",
+      "sha256": "17361fbdd4262d4a74736835ac4a8404f87b54ee8bbdcda3d560107c939d8008",
+      "bytes": 67581
+    },
+    {
+      "path": "SlideShow.Gadget/images/pause_down.png",
+      "sha256": "6fd20356563d856b75cd46081bc8ee123f56f289466f5f176395f33c281bb555",
+      "bytes": 3018
+    },
+    {
+      "path": "SlideShow.Gadget/images/pause_hov.png",
+      "sha256": "eaeaf0391b91f27015d87853de6ca10187e081f27cd1f5a9e29ecac3a85e0048",
+      "bytes": 3027
+    },
+    {
+      "path": "SlideShow.Gadget/images/pause_rest.png",
+      "sha256": "95cac1bb79fce1db0dd01dbda9eff54fa392796704fdd573f738d9f1ea3566a7",
+      "bytes": 2833
+    },
+    {
+      "path": "SlideShow.Gadget/images/play_down.png",
+      "sha256": "28137b2fe29df7a8eee1e599c5c2c0f0625894f924f613d279310ef4591b95b9",
+      "bytes": 3058
+    },
+    {
+      "path": "SlideShow.Gadget/images/play_hov.png",
+      "sha256": "99fc294d218f03104da749b875a0d40b0e4aa0e543c662387a0f3352ab803a57",
+      "bytes": 3062
+    },
+    {
+      "path": "SlideShow.Gadget/images/play_rest.png",
+      "sha256": "38278eeafdcc4de9f8f56dc5e81dc9975f6bde4e2d2330a4d62350e376ae19a4",
+      "bytes": 2886
+    },
+    {
+      "path": "SlideShow.Gadget/images/prev_down.png",
+      "sha256": "717958823eadf7906a9360d5d2a225e62bc43c4f2c8dc6972c726a39d69e0c6e",
+      "bytes": 3062
+    },
+    {
+      "path": "SlideShow.Gadget/images/prev_hov.png",
+      "sha256": "eba91bf4784ac28e9321a8d4ed790b0c462e0602e3d780b73ba36ce39740bb27",
+      "bytes": 3077
+    },
+    {
+      "path": "SlideShow.Gadget/images/prev_rest.png",
+      "sha256": "2945a959a547deb58c13c7ad6ee67a83c3563a7b5764fe7451ce1360e4d5bd60",
+      "bytes": 2904
+    },
+    {
+      "path": "SlideShow.Gadget/images/reveal_down.png",
+      "sha256": "41c8d3bcf66c6b73befab3610098f1de8d615fa45e50f85476906418ce297000",
+      "bytes": 3162
+    },
+    {
+      "path": "SlideShow.Gadget/images/reveal_hov.png",
+      "sha256": "23af594a6318218ead1b48e730ca7d70f39de945f4ed7d18df5ef793bec95a77",
+      "bytes": 3161
+    },
+    {
+      "path": "SlideShow.Gadget/images/reveal_rest.png",
+      "sha256": "4e860562dc21e5cbae253b7fcf9afe8e866d0a1be1a2c3f501ca5dedb1d9c18e",
+      "bytes": 2982
+    },
+    {
+      "path": "SlideShow.Gadget/logo.png",
+      "sha256": "e635a041cb74dee326b7c32384e9ae18eed3d23f865a0f1e50c15a59cf3af362",
+      "bytes": 213
+    },
+    {
+      "path": "Currency.Gadget/drag.png",
+      "sha256": "3ef9ff412349946431d202c7905667f524f59592e2bb54a8ca903baad1aee4b8",
+      "bytes": 12430
+    },
+    {
+      "path": "Currency.Gadget/icon.png",
+      "sha256": "9ff6b8ce4d01c61ae90995728e0ef6c24b81a385dc5425e9e65d7c05af138a4b",
+      "bytes": 3244
+    },
+    {
+      "path": "Currency.Gadget/images/activity16v.png",
+      "sha256": "e854cbd3d175d16da4ad87004f9bc8e00806de86b8f48c012d05512ed32e875e",
+      "bytes": 4782
+    },
+    {
+      "path": "Currency.Gadget/images/add_down.png",
+      "sha256": "0c2793224a46b83d891ab6d100a8d7157dd8ee939bd9f09bec569bb8fb775914",
+      "bytes": 512
+    },
+    {
+      "path": "Currency.Gadget/images/add_over.png",
+      "sha256": "e8f9a826d2e92c3b7c8eb3dfa06d89f4d314b49c881113806a6d0726d6890499",
+      "bytes": 420
+    },
+    {
+      "path": "Currency.Gadget/images/add_up.png",
+      "sha256": "da3d14026d503574e274e53c15c366e423a5afaa886c5c25f6f232359820d6ce",
+      "bytes": 228
+    },
+    {
+      "path": "Currency.Gadget/images/base-docked.png",
+      "sha256": "8fb877656f344ee2cef8543f90910660f0948978312d9b24318487690e005bfe",
+      "bytes": 11569
+    },
+    {
+      "path": "Currency.Gadget/images/base-docked_.png",
+      "sha256": "808ec9627514538d36342a7ed68d47c9bb024f5f1af966246e457a5d2778776f",
+      "bytes": 10011
+    },
+    {
+      "path": "Currency.Gadget/images/base-undocked-2.png",
+      "sha256": "5551b65b8e2dfd84be86988ec8125a22f4c49db0dfc238aa1f46a4b8edafb62e",
+      "bytes": 32669
+    },
+    {
+      "path": "Currency.Gadget/images/base-undocked-2_.png",
+      "sha256": "f0b00b1554b5e1b8897a55f06b52b512f4635fbd40e2df62b7b8b206e1db42d6",
+      "bytes": 28108
+    },
+    {
+      "path": "Currency.Gadget/images/base-undocked-3.png",
+      "sha256": "6dd3a8fb9e77326aa31ecb6532373860e5d69e438e6ec66c47b2d95d1d27e98b",
+      "bytes": 43382
+    },
+    {
+      "path": "Currency.Gadget/images/base-undocked-3_.png",
+      "sha256": "8800f7bcef9efa274bdab9400b2e07074b66c2488b705d123c603794667b49a9",
+      "bytes": 37828
+    },
+    {
+      "path": "Currency.Gadget/images/base-undocked-4.png",
+      "sha256": "91fe0aac6fdb015313c80bb14e8f01a357d20930f115d0a1f95e2803f5d4683b",
+      "bytes": 53941
+    },
+    {
+      "path": "Currency.Gadget/images/base-undocked-4_.png",
+      "sha256": "c594b6f8b43b5a7d0312df69adb268f00442b63c5cd186df3ce2d96ea87ecf5c",
+      "bytes": 47089
+    },
+    {
+      "path": "Currency.Gadget/images/combo-hover-left.png",
+      "sha256": "34cf6d82a773ebd25e7284c01e9f894bf8057096b8517d2d14aaabde24cf344a",
+      "bytes": 232
+    },
+    {
+      "path": "Currency.Gadget/images/combo-hover-middle.png",
+      "sha256": "49e77392cb2925d7aea2bdf3ad1abd2d8d09bed1f9216f190a8d7fcc78b4b85d",
+      "bytes": 173
+    },
+    {
+      "path": "Currency.Gadget/images/combo-hover-right.png",
+      "sha256": "81abf32554ebc793f618b1bd6d20df9544ff5bcfa2fc2178739fc7799bc22e2e",
+      "bytes": 2979
+    },
+    {
+      "path": "Currency.Gadget/images/delete_down.png",
+      "sha256": "d98600a47c6aa458526757a238e0bde758d6c1d67e3a70106ee6d3ba9b3ee49f",
+      "bytes": 772
+    },
+    {
+      "path": "Currency.Gadget/images/delete_over.png",
+      "sha256": "c6b3255e53098e2831f50bf7e7cb40dfae8f200b7a6ba50f699b90f2f81608a6",
+      "bytes": 696
+    },
+    {
+      "path": "Currency.Gadget/images/delete_up.png",
+      "sha256": "96a18e6b99304294eab21272fe875244c1b1f0bc1ae7e9522c1812b493adcaa1",
+      "bytes": 477
+    },
+    {
+      "path": "Currency.Gadget/images/graph_down.png",
+      "sha256": "9389f6834f46d11500932f88189b47f991707595431aee96cb7eeefd95f48675",
+      "bytes": 3268
+    },
+    {
+      "path": "Currency.Gadget/images/graph_over.png",
+      "sha256": "87593c5dbf2cf8236b15f17ea044f19dedbd1c440219ed34d9c1c27d94becd8b",
+      "bytes": 3428
+    },
+    {
+      "path": "Currency.Gadget/images/graph_up.png",
+      "sha256": "14c7950fe71c739eca77d6509e66758935b6161fa4567bc2fce16b15641d4a1d",
+      "bytes": 2929
+    },
+    {
+      "path": "Currency.Gadget/images/info.png",
+      "sha256": "2ab28364860b34593bb53c75de94014940f1279d6037986dc65b6cf5760b8ef1",
+      "bytes": 729
+    },
+    {
+      "path": "Currency.Gadget/images/row_over.png",
+      "sha256": "8cb3ff64ea8e1741208d0f194692e7c22f86d4668b2a1dbba4dfcab34631db5f",
+      "bytes": 3034
+    },
+    {
+      "path": "Currency.Gadget/images/triangle.png",
+      "sha256": "a374c69cd3ed52b0e369ab3c62f2dbca78c5d72fc9df76f4ba5a415f80018870",
+      "bytes": 2831
+    },
+    {
+      "path": "Currency.Gadget/logo.png",
+      "sha256": "e635a041cb74dee326b7c32384e9ae18eed3d23f865a0f1e50c15a59cf3af362",
+      "bytes": 213
+    },
+    {
+      "path": "RecycleBin.Gadget/dragndrop.png",
+      "sha256": "cd517a7fda1a8b8f80236a12725c5643b8d654ee3a26cc7f1470b1773a98e6c2",
+      "bytes": 6328
+    },
+    {
+      "path": "RecycleBin.Gadget/images/000.png",
+      "sha256": "05e50c170f4766293f66e89eb1ddd336422f4953aa482a610affd54f85bbfae8",
+      "bytes": 3586
+    },
+    {
+      "path": "RecycleBin.Gadget/images/030.png",
+      "sha256": "5e90d4334db95cf8553cc51ada72ba4dbd5eadd3185f2acf967a13f96a3c08c5",
+      "bytes": 3776
+    },
+    {
+      "path": "RecycleBin.Gadget/images/070.png",
+      "sha256": "5a72801af2353cc18c6441b186169da915899711305702bfbdee54c99e663d82",
+      "bytes": 3721
+    },
+    {
+      "path": "RecycleBin.Gadget/images/100.png",
+      "sha256": "a95f2aa70765677af68b71d667f30a2ce4bd12c06492965924d0e6ae74158c83",
+      "bytes": 4335
+    },
+    {
+      "path": "RecycleBin.Gadget/images/docked.png",
+      "sha256": "60db4d52c59d22f09b30bcefd247b8e51390c799f8065860d78cecee602ef9e3",
+      "bytes": 546
+    },
+    {
+      "path": "RecycleBin.Gadget/images/docked_.png",
+      "sha256": "0e1b594ec60f2de2c4bc0bbcebdaaf6d1895eed1b6dfbbfa0f79dc16c9752800",
+      "bytes": 241
+    },
+    {
+      "path": "RecycleBin.Gadget/images/docked_old.png",
+      "sha256": "21392f9d56ad5a05a734fd73c44a00d4e2a6c32d0988b5616852493cf89308b6",
+      "bytes": 6980
+    },
+    {
+      "path": "RecycleBin.Gadget/images/emptybin.png",
+      "sha256": "1e6491f34d4947a2cfee90da98a64df4946030105b966d33081c6d330f6060f5",
+      "bytes": 207
+    },
+    {
+      "path": "RecycleBin.Gadget/images/emptybin_disabled.png",
+      "sha256": "eb42eff967d4263963a418ffdc01feb59acd5c23db5e3ce71ffde478c6df77e4",
+      "bytes": 251
+    },
+    {
+      "path": "RecycleBin.Gadget/images/icon.png",
+      "sha256": "cbe76bd18ecfe9e15742a9522459ce557989d890c471e9818e6ae2b2786799ea",
+      "bytes": 5287
+    },
+    {
+      "path": "RecycleBin.Gadget/images/settings.png",
+      "sha256": "8d71e823fe4dffd47a902d781940a228ee21f3241aa6e1ef4d3ed0d6f89780e0",
+      "bytes": 341
+    },
+    {
+      "path": "RecycleBin.Gadget/images/sync.png",
+      "sha256": "c74d998940feae69131853da14eca91017f5aa7a1e8eb6b0d5c53566e5cb9eb0",
+      "bytes": 315
+    },
+    {
+      "path": "RecycleBin.Gadget/logo.png",
+      "sha256": "e70560032a58167c6ff8c199baa486c4e9807154c4057e2bd5b5caf3a0fa1364",
+      "bytes": 138864
+    }
+  ]
+}

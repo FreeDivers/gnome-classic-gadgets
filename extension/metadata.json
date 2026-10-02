@@ -1,0 +1,12 @@
+{
+  "uuid": "classic-gadgets@qinyan.local",
+  "name": "Windows Vista/7 小组件",
+  "description": "Windows Vista/7 小组件的 GNOME 桌面扩展。",
+  "shell-version": [
+    "50"
+  ],
+  "version": 5,
+  "settings-schema": "org.gnome.shell.extensions.classic-gadgets",
+  "gettext-domain": "classic-gadgets",
+  "url": "https://github.com/FreeDivers/gnome-classic-gadgets"
+}

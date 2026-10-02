@@ -1,0 +1,2360 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Windows Vista/7 Widgets contributors
+# This file is distributed under the same license as the classic-desktop-gadgets package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: classic-desktop-gadgets 2.3.0\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: extension/lib/logic/finance-cn.js:223
+msgid " (non-trading day)"
+msgstr ""
+
+#: extension/lib/gadgets/stocks.js:50 extension/lib/gadgets/weather.js:93
+#: extension/lib/logic/network-region.js:85
+msgid " ({value})"
+msgstr ""
+
+#: extension/lib/dbus.js:58
+msgid " or "
+msgstr ""
+
+#: extension/lib/logic/finance-cn.js:84 extension/lib/logic/finance-cn.js:132
+#: extension/lib/logic/finance-cn.js:261 extension/lib/logic/weather-cn.js:51
+#: extension/lib/logic/weather-cn.js:68
+msgid "(empty)"
+msgstr ""
+
+#: extension/lib/gadgets/trash.js:91
+msgid "; {count} item could not be deleted"
+msgid_plural "; {count} items could not be deleted"
+msgstr[0] ""
+msgstr[1] ""
+
+#: extension/lib/core.js:17
+msgid "A 4×4 sliding puzzle."
+msgstr ""
+
+#: extension/lib/core.js:15
+msgid "A desktop calculator with memory keys."
+msgstr ""
+
+#: extension/lib/logic/finance-cn.js:23
+msgid "AMEX"
+msgstr ""
+
+#: extension/lib/gadgets/photos.js:15
+msgid "Absolute path"
+msgstr ""
+
+#: extension/helpers/gallery-window.js:16 extension/lib/ui/gallery.js:15
+msgid "Add Widgets"
+msgstr ""
+
+#: extension/extension.js:302 extension/lib/ui/context-menu.js:19
+msgid "Add Widgets…"
+msgstr ""
+
+#: extension/lib/gadgets/timer.js:23
+msgid "Add five seconds"
+msgstr ""
+
+#: extension/lib/gadgets/timer.js:24
+msgid "Add one minute"
+msgstr ""
+
+#: extension/extension.js:317
+msgid "Add or remove widgets"
+msgstr ""
+
+#: extension/helpers/gallery-window.js:55
+msgid "Add to Desktop"
+msgstr ""
+
+#: extension/lib/gadgets/contacts.js:30
+msgid "Add…"
+msgstr ""
+
+#: extension/lib/ui/options-dialog.js:28
+msgid "Adjusts the current size on top of the global scale"
+msgstr ""
+
+#: extension/lib/gadgets/currency.js:16
+msgid "Amount to convert"
+msgstr ""
+
+#: extension/lib/core.js:9
+msgid "An analog clock."
+msgstr ""
+
+#: extension/lib/core.js:16
+msgid "An egg-shaped countdown timer."
+msgstr ""
+
+#: extension/extension.js:307 extension/lib/ui/options-dialog.js:27
+#: extension/lib/ui/options-dialog.js:28 extension/prefs.js:58
+msgid "Appearance"
+msgstr ""
+
+#: extension/lib/logic/weather-global.js:75
+#: extension/lib/network-sources.js:181
+msgid "Approximate IP location (may be the network exit city)"
+msgstr ""
+
+#: extension/extension.js:327 extension/lib/ui/context-menu.js:25
+#: extension/prefs.js:56
+msgid "Arrange automatically"
+msgstr ""
+
+#: extension/prefs.js:111
+msgid "Automatic data sources"
+msgstr ""
+
+#: extension/lib/gadgets/currency.js:17
+msgid "Automatically chooses Eastmoney or Frankfurter / ECB reference rates. Unsupported currencies show an error. CNY and CNH are not interchangeable."
+msgstr ""
+
+#: extension/lib/gadgets/stocks.js:14
+msgid "Automatically chooses Eastmoney or Yahoo Finance. Quotes may be delayed."
+msgstr ""
+
+#: extension/lib/gadgets/currency.js:13 extension/prefs.js:127
+msgid "Base currency"
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:322
+msgid "Blizzard"
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:325
+msgid "Blowing sand"
+msgstr ""
+
+#: extension/lib/gadgets/notes.js:15 extension/prefs.js:90
+msgid "Blue"
+msgstr ""
+
+#: extension/lib/gadgets/clock.js:15 extension/prefs.js:84
+msgid "Blue neon"
+msgstr ""
+
+#: extension/prefs.js:50
+msgid "Buttons and content remain usable when positions are locked"
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:42
+msgid "CMA API error (code={code}, {error})"
+msgstr ""
+
+#: extension/lib/core.js:11
+msgid "CPU / Memory"
+msgstr ""
+
+#: extension/lib/gadgets/system.js:27
+msgid "CPU {cpu}; memory {used} / {total}"
+msgstr ""
+
+#: extension/lib/gadgets/network-gadget.js:35
+msgid "Cached data"
+msgstr ""
+
+#: extension/lib/core.js:15
+msgid "Calculator"
+msgstr ""
+
+#: extension/prefs.js:108
+msgid "Calculator and Picture Puzzle"
+msgstr ""
+
+#: extension/lib/core.js:10 extension/prefs.js:88
+msgid "Calendar"
+msgstr ""
+
+#: extension/helpers/options-window.js:51 extension/lib/gadgets/trash.js:81
+msgid "Cancel"
+msgstr ""
+
+#: extension/lib/ui/desktop-menu.js:67
+msgid "Cannot add the desktop menu entry: {error}. You can add widgets from the top bar."
+msgstr ""
+
+#: extension/lib/gadgets/network-gadget.js:38
+msgid "Cannot connect to the service"
+msgstr ""
+
+#: extension/lib/core.js:243
+msgid "Cannot divide by zero"
+msgstr ""
+
+#: extension/lib/trash-drop.js:128
+msgid "Cannot enable file drops: {error}"
+msgstr ""
+
+#: extension/lib/gadgets/trash.js:43
+msgid "Cannot open the trash"
+msgstr ""
+
+#: extension/lib/ui/gallery.js:59 extension/lib/ui/gallery.js:63
+msgid "Cannot open the widget gallery"
+msgstr ""
+
+#: extension/lib/ui/options-dialog.js:55 extension/lib/ui/options-dialog.js:60
+#: extension/lib/ui/options-dialog.js:62
+msgid "Cannot open widget settings"
+msgstr ""
+
+#: extension/helpers/trash-drop-target.js:137
+msgid "Cannot parse command: {command}"
+msgstr ""
+
+#: extension/helpers/gallery-drop-target.js:41
+msgid "Cannot place widget: {error}"
+msgstr ""
+
+#: extension/lib/ui/desktop-menu.js:45
+msgid "Cannot prepare the DING desktop menu"
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:230
+msgid "Cannot read the city from the IP location result"
+msgstr ""
+
+#: extension/lib/ui/options-dialog.js:55
+msgid "Cannot start the settings window. Check that GTK4 and libadwaita are installed."
+msgstr ""
+
+#: extension/lib/logic/finance-cn.js:288
+msgid "Central parity"
+msgstr ""
+
+#: extension/lib/ui/context-menu.js:48
+msgid "Change Background…"
+msgstr ""
+
+#: extension/lib/core.js:251
+msgid "Check the parentheses and operators"
+msgstr ""
+
+#: extension/lib/gadgets/network-gadget.js:12
+msgid "Checking data sources"
+msgstr ""
+
+#: extension/lib/gadgets/weather.js:57
+msgid "Checking data sources…"
+msgstr ""
+
+#: extension/prefs.js:125
+msgid "Checks reference rates hourly."
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:41 extension/lib/network-sources.js:17
+msgid "China Meteorological Administration"
+msgstr ""
+
+#: extension/prefs.js:99
+msgid "Choose a local folder"
+msgstr ""
+
+#: extension/lib/gadgets/puzzle.js:11
+msgid "Choose a puzzle"
+msgstr ""
+
+#: extension/prefs.js:95
+msgid "Choose a slide show folder"
+msgstr ""
+
+#: extension/helpers/options-window.js:154
+msgid "Choose a style"
+msgstr ""
+
+#: extension/lib/gadgets/rss.js:15 extension/prefs.js:121
+msgid "Choose feed automatically"
+msgstr ""
+
+#: extension/prefs.js:64
+msgid "Choose “Add Widgets…” from the top bar or desktop context menu."
+msgstr ""
+
+#: extension/prefs.js:111
+msgid "Chooses data sources from the IP location when enabled. Proxies may affect detection."
+msgstr ""
+
+#: extension/prefs.js:93
+msgid "Choose…"
+msgstr ""
+
+#: extension/lib/gadgets/clock.js:15 extension/prefs.js:84
+msgid "Chronometer"
+msgstr ""
+
+#: extension/lib/core.js:44
+msgid "Classic (Windows Vista / 7 originals)"
+msgstr ""
+
+#: extension/lib/core.js:294 extension/lib/logic/weather-cn.js:317
+msgid "Clear"
+msgstr ""
+
+#: extension/prefs.js:106
+msgid "Click the digits or scroll to adjust the duration. Click the bottom to start or pause."
+msgstr ""
+
+#: extension/lib/core.js:9 extension/prefs.js:83
+msgid "Clock"
+msgstr ""
+
+#: extension/lib/gadgets/clock.js:14 extension/prefs.js:84
+msgid "Clock face"
+msgstr ""
+
+#: extension/lib/gadgets/clock.js:16
+msgid "Clock name"
+msgstr ""
+
+#: extension/prefs.js:86
+msgid "Clock name (optional)"
+msgstr ""
+
+#: extension/lib/gadget.js:144
+msgid "Close"
+msgstr ""
+
+#: extension/lib/ui/context-menu.js:41
+msgid "Close Widget"
+msgstr ""
+
+#: extension/lib/ui/window.js:33
+msgid "Close window"
+msgstr ""
+
+#: extension/lib/gadgets/calculator.js:11
+msgid "Color"
+msgstr ""
+
+#: extension/lib/gadgets/trash.js:17
+msgid "Confirm in the dialog that opens"
+msgstr ""
+
+#: extension/lib/core.js:21 extension/prefs.js:132
+msgid "Contacts"
+msgstr ""
+
+#: extension/lib/gadgets/contacts.js:12
+msgid "Contacts (one per line: name | phone | email)"
+msgstr ""
+
+#: extension/lib/core.js:19
+msgid "Convert currencies using reference exchange rates."
+msgstr ""
+
+#: extension/lib/gadgets/contacts.js:35
+msgid "Copied to clipboard"
+msgstr ""
+
+#: extension/extension.js:109
+msgid "Could not change the appearance of {widget}: {error}"
+msgstr ""
+
+#: extension/extension.js:133
+msgid "Could not load {widget}: {error}"
+msgstr ""
+
+#: extension/helpers/trash-drop-target.js:129
+msgid "Could not move to trash: {error}"
+msgstr ""
+
+#: extension/lib/trash-drop.js:331
+msgid "Could not move {count} item ({name}: {error})"
+msgid_plural "Could not move {count} items ({name}: {error})"
+msgstr[0] ""
+msgstr[1] ""
+
+#: extension/lib/core.js:19
+msgid "Currency Converter"
+msgstr ""
+
+#: extension/prefs.js:125
+msgid "Currency · Eastmoney / Frankfurter"
+msgstr ""
+
+#: extension/lib/network-sources.js:46
+msgid "Custom RSS / Atom"
+msgstr ""
+
+#: extension/lib/gadgets/rss.js:16
+msgid "Custom RSS / Atom URL"
+msgstr ""
+
+#: extension/prefs.js:122
+msgid "Custom feed URL"
+msgstr ""
+
+#: extension/lib/gadgets/weather.js:25 extension/prefs.js:116
+msgid "Custom place name"
+msgstr ""
+
+#: extension/lib/core.js:14
+msgid "Cycle through pictures in a local folder."
+msgstr ""
+
+#: extension/lib/ui/desktop-menu.js:47
+msgid "DING menu copy verification failed"
+msgstr ""
+
+#: extension/helpers/desktop-menu-prepare.py:50
+msgid "DING menu markers are incomplete; nothing was changed"
+msgstr ""
+
+#: extension/lib/gadgets/network-gadget.js:16
+msgid "Data source and update time"
+msgstr ""
+
+#: extension/lib/gadgets/weather.js:73
+msgid "Data source: {provider}"
+msgstr ""
+
+#: extension/prefs.js:154
+msgid "Data storage and removal"
+msgstr ""
+
+#: extension/lib/gadgets/timer.js:14
+msgid "Default duration (seconds)"
+msgstr ""
+
+#: extension/prefs.js:107
+msgid "Default duration (seconds, applied on reset)"
+msgstr ""
+
+#: extension/lib/gadgets/stocks.js:43
+msgid "Delayed quote"
+msgstr ""
+
+#: extension/lib/gadgets/trash.js:82
+msgid "Delete Permanently"
+msgstr ""
+
+#: extension/lib/gadgets/notes.js:30
+msgid "Delete note (click again to confirm)"
+msgstr ""
+
+#: extension/lib/gadgets/notes.js:66
+msgid "Delete?"
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:326
+msgid "Dense fog"
+msgstr ""
+
+#: extension/prefs.js:48
+msgid "Desktop"
+msgstr ""
+
+#: extension/helpers/gallery-window.js:31
+msgid "Desktop Widget Gallery"
+msgstr ""
+
+#: extension/prefs.js:50
+msgid "Desktop context menu"
+msgstr ""
+
+#: extension/helpers/gallery-window.js:52
+msgid "Details"
+msgstr ""
+
+#: extension/prefs.js:112
+msgid "Detect only when enabled"
+msgstr ""
+
+#: extension/lib/logic/network-region.js:82
+msgid "Detecting network region…"
+msgstr ""
+
+#: extension/lib/logic/network-region.js:79
+msgid "Detection failed"
+msgstr ""
+
+#: extension/lib/logic/network-region.js:79
+msgid "Detection failed; using the last result"
+msgstr ""
+
+#: extension/lib/ui/context-menu.js:49
+msgid "Display Settings…"
+msgstr ""
+
+#: extension/prefs.js:49
+msgid "Display and positions"
+msgstr ""
+
+#: extension/lib/ui/options-dialog.js:162
+msgid "Done. Click OK to save."
+msgstr ""
+
+#: extension/lib/gadget.js:147
+msgid "Drag"
+msgstr ""
+
+#: extension/prefs.js:49
+msgid "Drag an empty area of a widget to move it."
+msgstr ""
+
+#: extension/helpers/gallery-window.js:62
+msgid "Drag an icon to the desktop or double-click to add it. Drag an existing widget to move it."
+msgstr ""
+
+#: extension/lib/trash-drop.js:95
+msgid "Drop files onto the trash icon"
+msgstr ""
+
+#: extension/lib/trash-drop.js:60
+msgid "Dropping files into the trash is not supported in X11 sessions"
+msgstr ""
+
+#: extension/lib/logic/finance-global.js:21
+msgid "ECB reference rate"
+msgstr ""
+
+#: extension/prefs.js:53
+msgid "Each widget's position is saved separately"
+msgstr ""
+
+#: extension/lib/network-sources.js:19
+msgid "Eastmoney"
+msgstr ""
+
+#: extension/lib/logic/finance-cn.js:47 extension/lib/logic/finance-cn.js:48
+#: extension/lib/logic/finance-cn.js:127 extension/lib/logic/finance-cn.js:129
+msgid "Eastmoney returned invalid data"
+msgstr ""
+
+#: extension/lib/network-sources.js:18
+msgid "Eastmoney · Reference exchange rates"
+msgstr ""
+
+#: extension/prefs.js:89
+msgid "Edit directly on the desktop. Up to 8000 characters."
+msgstr ""
+
+#: extension/lib/gadgets/trash.js:53 extension/lib/gadgets/trash.js:57
+msgid "Empty"
+msgstr ""
+
+#: extension/lib/gadgets/trash.js:17 extension/lib/gadgets/trash.js:19
+msgid "Empty Trash…"
+msgstr ""
+
+#: extension/lib/gadgets/puzzle.js:31
+msgid "Empty space"
+msgstr ""
+
+#: extension/lib/gadgets/trash.js:79
+msgid "Empty the trash?"
+msgstr ""
+
+#: extension/lib/gadgets/trash.js:28
+msgid "Empty trash (confirmation required)"
+msgstr ""
+
+#: extension/lib/gadgets/trash.js:28
+msgid "Empty…"
+msgstr ""
+
+#: extension/helpers/desktop-menu-prepare.py:44
+msgid "Enable Windows Vista/7 Widgets first"
+msgstr ""
+
+#: extension/lib/gadgets/trash.js:34 extension/lib/trash-drop.js:96
+msgid "Enabling file drops…"
+msgstr ""
+
+#: extension/lib/gadgets/stocks.js:11
+msgid "Enter 1–10 stock symbols"
+msgstr ""
+
+#: extension/lib/gadgets/currency.js:15
+msgid "Enter 1–3 currency codes, such as CNY, EUR, JPY"
+msgstr ""
+
+#: extension/lib/logic/weather-global.js:20
+msgid "Enter a city name"
+msgstr ""
+
+#: extension/lib/ui/ui-logic.js:58 extension/lib/ui/ui-logic.js:63
+#: extension/lib/ui/ui-logic.js:65
+msgid "Enter a number"
+msgstr ""
+
+#: extension/lib/ui/ui-logic.js:55 extension/prefs.js:32
+msgid "Enter a number from {min} to {max}"
+msgstr ""
+
+#: extension/lib/ui/ui-logic.js:57
+msgid "Enter a number no greater than {max}"
+msgstr ""
+
+#: extension/lib/ui/ui-logic.js:56
+msgid "Enter a number no smaller than {min}"
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:56
+msgid "Enter a station name"
+msgstr ""
+
+#: extension/lib/logic/finance-global.js:47
+msgid "Enter a stock symbol"
+msgstr ""
+
+#: extension/prefs.js:126
+msgid "Enter a three-letter currency code, such as USD, CNY or EUR"
+msgstr ""
+
+#: extension/lib/logic/finance-global.js:28
+msgid "Enter a valid stock symbol"
+msgstr ""
+
+#: extension/lib/logic/finance-cn.js:12
+msgid "Enter a valid stock symbol or name, such as 600519, 00700, AAPL or Kweichow Moutai"
+msgstr ""
+
+#: extension/lib/logic/finance-global.js:43
+msgid "Enter a valid stock symbol, such as AAPL, 600519.SS, 0700.HK or ^GSPC"
+msgstr ""
+
+#: extension/prefs.js:87
+msgid "Enter a valid time zone, such as Asia/Shanghai or Europe/London"
+msgstr ""
+
+#: extension/lib/ui/ui-logic.js:66
+msgid "Enter a whole number"
+msgstr ""
+
+#: extension/lib/core.js:203
+msgid "Enter an expression (up to 512 characters)"
+msgstr ""
+
+#: extension/lib/gadgets/photos.js:47
+msgid "Enter the absolute path of a local pictures folder"
+msgstr ""
+
+#: extension/lib/gadgets/photos.js:15
+msgid "Enter the folder's absolute path"
+msgstr ""
+
+#: extension/lib/gadgets/calculator.js:22
+msgid "Error"
+msgstr ""
+
+#: extension/lib/trash-drop.js:184
+msgid "Exit code {code}"
+msgstr ""
+
+#: extension/lib/gadgets/calendar.js:24
+msgid "Expand or collapse the calendar"
+msgstr ""
+
+#: extension/prefs.js:88
+msgid "Expand the month view"
+msgstr ""
+
+#: extension/extension.js:328
+msgid "Extension Settings…"
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:320
+msgid "Extreme rainstorm"
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:328
+msgid "Extremely dense fog"
+msgstr ""
+
+#: extension/lib/ui/options-dialog.js:111
+msgid "Failed to process the widget settings message"
+msgstr ""
+
+#: extension/lib/gadgets/trash.js:34
+msgid "File drop status"
+msgstr ""
+
+#: extension/lib/gadgets/trash.js:16
+msgid "Files can be restored in the file manager"
+msgstr ""
+
+#: extension/lib/gadgets/weather.js:20
+msgid "Find my location"
+msgstr ""
+
+#: extension/lib/gadgets/weather.js:20
+msgid "Finding location…"
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:394
+msgid "First quarter"
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:325
+msgid "Floating dust"
+msgstr ""
+
+#: extension/lib/gadgets/clock.js:15 extension/prefs.js:84
+msgid "Flower"
+msgstr ""
+
+#: extension/lib/core.js:44
+msgid "Fluent (Rectify11)"
+msgstr ""
+
+#: extension/lib/core.js:297 extension/lib/logic/weather-cn.js:322
+msgid "Fog"
+msgstr ""
+
+#: extension/lib/gadgets/stocks.js:13
+msgid "For example, 600519, 000001.SZ, 00700.HK or AAPL. Eastmoney codes such as 1.600519 are also supported."
+msgstr ""
+
+#: extension/lib/gadgets/clock.js:17
+msgid "For example, Asia/Shanghai. Leave blank to use the system time zone."
+msgstr ""
+
+#: extension/lib/gadgets/weather.js:17
+msgid "For example, Shanghai, Beijing or London"
+msgstr ""
+
+#: extension/lib/gadgets/weather.js:21
+msgid "Found {location} ({method}). Check the location, then click OK."
+msgstr ""
+
+#: extension/lib/logic/finance-global.js:20
+msgid "Frankfurter does not support or did not return a {base}/{quote} rate"
+msgstr ""
+
+#: extension/lib/logic/finance-global.js:15
+msgid "Frankfurter returned an invalid exchange rate"
+msgstr ""
+
+#: extension/lib/network-sources.js:24
+msgid "Frankfurter · ECB reference rates"
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:322
+msgid "Freezing rain"
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:394
+msgid "Full moon"
+msgstr ""
+
+#: extension/lib/core.js:227
+msgid "Functions require parentheses"
+msgstr ""
+
+#: extension/lib/logic/finance-cn.js:20
+msgid "Global index"
+msgstr ""
+
+#: extension/lib/gadgets/calculator.js:11
+msgid "Gray"
+msgstr ""
+
+#: extension/lib/gadgets/notes.js:15 extension/prefs.js:90
+msgid "Green"
+msgstr ""
+
+#: extension/lib/logic/finance-cn.js:24
+msgid "HKEX"
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:327
+msgid "Haze"
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:328
+msgid "Heavy fog"
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:327
+msgid "Heavy haze"
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:319
+msgid "Heavy rain"
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:323
+msgid "Heavy rain to rainstorm"
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:321
+msgid "Heavy snow"
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:325
+msgid "Heavy snow to blizzard"
+msgstr ""
+
+#: extension/prefs.js:50
+msgid "Hide automatically in the overview and on the lock screen"
+msgstr ""
+
+#: extension/lib/gadgets/weather.js:22
+msgid "IP location can be inaccurate. Search for a city to correct it."
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:235
+msgid "IP location did not return a city. Search for a station manually."
+msgstr ""
+
+#: extension/lib/logic/network-region.js:42
+msgid "IPIP did not return a country or region"
+msgstr ""
+
+#: extension/lib/logic/network-region.js:40
+msgid "IPIP location lookup failed"
+msgstr ""
+
+#: extension/lib/network-sources.js:20
+msgid "IT Home · RSS"
+msgstr ""
+
+#: extension/lib/logic/finance-cn.js:256
+msgid "Incomplete exchange rate list"
+msgstr ""
+
+#: extension/lib/core.js:231
+msgid "Incomplete expression"
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:151
+msgid "Incomplete station list"
+msgstr ""
+
+#: extension/lib/logic/finance-cn.js:292
+msgid "International"
+msgstr ""
+
+#: extension/lib/core.js:97
+msgid "Invalid CPU counters"
+msgstr ""
+
+#: extension/lib/logic/finance-global.js:17
+msgid "Invalid Frankfurter exchange rate date"
+msgstr ""
+
+#: extension/lib/logic/network-region.js:47
+msgid "Invalid IPIP country or region"
+msgstr ""
+
+#: extension/lib/logic/weather-global.js:38
+msgid "Invalid Open-Meteo forecast date"
+msgstr ""
+
+#: extension/lib/logic/weather-global.js:25
+msgid "Invalid Open-Meteo weather code"
+msgstr ""
+
+#: extension/lib/logic/weather-global.js:46
+msgid "Invalid Open-Meteo weather time zone or time"
+msgstr ""
+
+#: extension/lib/logic/finance-global.js:64
+msgid "Invalid Yahoo Finance quote price or time"
+msgstr ""
+
+#: extension/lib/gadgets/currency.js:39
+msgid "Invalid amount"
+msgstr ""
+
+#: extension/lib/dbus.js:58
+msgid "Invalid appearance: {theme} ({themes})"
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:167
+msgid "Invalid coordinates"
+msgstr ""
+
+#: extension/helpers/trash-drop-target.js:40
+msgid "Invalid dimensions: {size}"
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:231 extension/lib/logic/weather-cn.js:271
+msgid "Invalid encoding in the response"
+msgstr ""
+
+#: extension/lib/logic/finance-cn.js:229 extension/lib/logic/finance-cn.js:231
+#: extension/lib/logic/finance-cn.js:239 extension/lib/logic/finance-cn.js:250
+#: extension/lib/logic/finance-cn.js:303
+msgid "Invalid exchange rate list"
+msgstr ""
+
+#: extension/lib/logic/weather-global.js:10
+msgid "Invalid latitude or longitude"
+msgstr ""
+
+#: extension/lib/platform.js:126
+msgid "Invalid request header: {header}"
+msgstr ""
+
+#: extension/extension.js:158
+msgid "Invalid size: {size}"
+msgstr ""
+
+#: extension/lib/dbus.js:53
+msgid "Invalid size: {size} (small or large)"
+msgstr ""
+
+#: extension/prefs.js:114
+msgid "Invalid station ID. Search for a city in Weather Settings."
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:51
+msgid "Invalid station ID: {id}"
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:143
+msgid "Invalid station list"
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:129
+msgid "Invalid station search results"
+msgstr ""
+
+#: extension/prefs.js:130
+msgid "Invalid stock symbol"
+msgstr ""
+
+#: extension/lib/logic/finance-cn.js:84
+msgid "Invalid stock symbol: {symbol}"
+msgstr ""
+
+#: extension/lib/ui/options-model.js:40
+msgid "Invalid switch value"
+msgstr ""
+
+#: extension/lib/gadgets/clock.js:17
+msgid "Invalid time zone"
+msgstr ""
+
+#: extension/lib/core.js:112
+msgid "Invalid total memory"
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:68
+msgid "Invalid weather.com.cn city ID: {id}"
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:240 extension/lib/logic/weather-cn.js:245
+#: extension/lib/logic/weather-cn.js:257 extension/lib/logic/weather-cn.js:260
+#: extension/lib/logic/weather-cn.js:268
+msgid "Invalid weather.com.cn data format"
+msgstr ""
+
+#: extension/lib/gadgets/clock.js:15 extension/prefs.js:84
+msgid "Kitten"
+msgstr ""
+
+#: extension/lib/gadget.js:145 extension/lib/gadget.js:172
+#: extension/lib/ui/context-menu.js:29 extension/lib/ui/options-dialog.js:27
+msgid "Large"
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:394
+msgid "Last quarter"
+msgstr ""
+
+#: extension/lib/gadgets/weather.js:27 extension/prefs.js:117
+msgid "Latitude"
+msgstr ""
+
+#: extension/lib/core.js:298 extension/lib/logic/weather-cn.js:319
+msgid "Light rain"
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:321
+msgid "Light snow"
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:323
+msgid "Light to moderate rain"
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:324
+msgid "Light to moderate snow"
+msgstr ""
+
+#: extension/lib/gadgets/rss.js:23
+msgid "Loading…"
+msgstr ""
+
+#: extension/prefs.js:82
+msgid "Local Widgets"
+msgstr ""
+
+#: extension/prefs.js:133
+msgid "Local contacts"
+msgstr ""
+
+#: extension/lib/gadgets/weather.js:17 extension/lib/gadgets/weather.js:20
+#: extension/lib/gadgets/weather.js:22 extension/lib/gadgets/weather.js:23
+#: extension/lib/gadgets/weather.js:24 extension/lib/gadgets/weather.js:25
+#: extension/lib/gadgets/weather.js:27 extension/lib/gadgets/weather.js:28
+#: extension/lib/gadgets/weather.js:29
+msgid "Location"
+msgstr ""
+
+#: extension/lib/location.js:69
+msgid "Location failed: {error}. You can search for a city without entering coordinates."
+msgstr ""
+
+#: extension/lib/location.js:67
+msgid "Location request cancelled"
+msgstr ""
+
+#: extension/lib/gadgets/weather.js:93
+msgid ""
+"Location {location}{station} · Updated {time}{zone}\n"
+"Humidity {humidity}% · Wind {wind} m/s"
+msgstr ""
+
+#: extension/extension.js:305 extension/lib/ui/context-menu.js:23
+#: extension/prefs.js:50
+msgid "Lock positions"
+msgstr ""
+
+#: extension/lib/gadgets/weather.js:28 extension/prefs.js:118
+msgid "Longitude"
+msgstr ""
+
+#: extension/lib/logic/finance-cn.js:98
+msgid "Look up at most {count} security at a time"
+msgid_plural "Look up at most {count} securities at a time"
+msgstr[0] ""
+msgstr[1] ""
+
+#: extension/lib/logic/network-region.js:5
+msgid "Mainland China"
+msgstr ""
+
+#: extension/lib/gadgets/weather.js:31
+msgid "Manual coordinates"
+msgstr ""
+
+#: extension/lib/gadgets/weather.js:23 extension/lib/gadgets/weather.js:27
+#: extension/lib/gadgets/weather.js:28 extension/lib/gadgets/weather.js:29
+msgid "Manual location"
+msgstr ""
+
+#: extension/lib/gadgets/weather.js:14
+msgid "Manual station selection"
+msgstr ""
+
+#: extension/lib/logic/finance-cn.js:202
+msgid "Market closed"
+msgstr ""
+
+#: extension/lib/gadget.js:230
+msgid "Missing asset: {path}"
+msgstr ""
+
+#: extension/lib/core.js:223 extension/lib/core.js:229
+msgid "Missing closing parenthesis"
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:327
+msgid "Moderate haze"
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:319
+msgid "Moderate rain"
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:321
+msgid "Moderate snow"
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:323
+msgid "Moderate to heavy rain"
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:325
+msgid "Moderate to heavy snow"
+msgstr ""
+
+#: extension/lib/gadgets/clock.js:15 extension/prefs.js:84
+msgid "Modern red"
+msgstr ""
+
+#: extension/lib/gadgets/clock.js:15
+msgid "Monitor"
+msgstr ""
+
+#: extension/lib/trash-drop.js:330
+msgid "Moved {count} item to the trash"
+msgid_plural "Moved {count} items to the trash"
+msgstr[0] ""
+msgstr[1] ""
+
+#: extension/lib/logic/finance-cn.js:21
+msgid "NASDAQ"
+msgstr ""
+
+#: extension/lib/logic/finance-cn.js:22
+msgid "NYSE"
+msgstr ""
+
+#: extension/lib/logic/network-region.js:85
+msgid "Network region: {region} · Approximate IP location{country}"
+msgstr ""
+
+#: extension/lib/logic/network-region.js:85
+msgid "Network region: {region} · {source}"
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:394
+msgid "New moon"
+msgstr ""
+
+#: extension/lib/gadgets/notes.js:29
+msgid "New note"
+msgstr ""
+
+#: extension/lib/gadgets/stocks.js:33
+msgid "Next group of quotes"
+msgstr ""
+
+#: extension/lib/gadgets/notes.js:28
+msgid "Next note"
+msgstr ""
+
+#: extension/helpers/gallery-window.js:37
+msgid "Next page"
+msgstr ""
+
+#: extension/lib/gadgets/photos.js:31
+msgid "Next picture"
+msgstr ""
+
+#: extension/helpers/options-window.js:157
+msgid "Next style"
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:178
+msgid "No CMA station nearby (nearest: {station}, {distance} km away). Search manually."
+msgstr ""
+
+#: extension/helpers/options-window.js:230
+msgid "No cities found"
+msgstr ""
+
+#: extension/lib/logic/weather-global.js:69
+msgid "No city found near these coordinates"
+msgstr ""
+
+#: extension/lib/gadgets/contacts.js:29
+msgid "No contacts"
+msgstr ""
+
+#: extension/lib/logic/finance-cn.js:313
+msgid "No exchange rate for {base}/{quote}"
+msgstr ""
+
+#: extension/lib/logic/finance-cn.js:305
+msgid "No exchange rate for {base}/{quote} (unsupported currency: {code})"
+msgstr ""
+
+#: extension/lib/network-sources.js:88
+msgid "No exchange rate needed"
+msgstr ""
+
+#: extension/lib/trash-drop.js:333
+msgid "No items can be moved to the trash"
+msgstr ""
+
+#: extension/lib/network-sources.js:74
+msgid "No matching city found for this station. Search again or enter coordinates in Weather Settings."
+msgstr ""
+
+#: extension/lib/logic/finance-cn.js:132
+msgid "No matching security found: {symbol}"
+msgstr ""
+
+#: extension/lib/core.js:316 extension/lib/logic/finance-cn.js:147
+#: extension/lib/logic/finance-cn.js:161
+msgid "No quote data"
+msgstr ""
+
+#: extension/lib/logic/finance-cn.js:168
+msgid "No quote for this symbol"
+msgstr ""
+
+#: extension/lib/core.js:319
+msgid "No quote found for this security. Use a Stooq symbol, such as aapl.us."
+msgstr ""
+
+#: extension/lib/network-sources.js:179
+msgid "No station matches the IP location. Search for a city."
+msgstr ""
+
+#: extension/lib/logic/finance-cn.js:97
+msgid "No stock symbols to look up"
+msgstr ""
+
+#: extension/helpers/gallery-window.js:46
+msgid "No widgets found"
+msgstr ""
+
+#: extension/helpers/desktop-menu-prepare.py:68
+msgid "Not a valid DING extension directory"
+msgstr ""
+
+#: extension/prefs.js:92
+msgid "Not selected"
+msgstr ""
+
+#: extension/lib/gadgets/notes.js:14
+msgid "Note color"
+msgstr ""
+
+#: extension/lib/core.js:12 extension/prefs.js:89
+msgid "Notes"
+msgstr ""
+
+#: extension/prefs.js:154
+msgid "Notes, contacts and layout are stored in GSettings. Network caches are in ~/.cache/classic-desktop-gadgets. Uninstalling keeps personal content by default. Export a backup before clearing it."
+msgstr ""
+
+#: extension/lib/gadgets/rss.js:17
+msgid "Number of entries"
+msgstr ""
+
+#: extension/helpers/options-window.js:52
+msgid "OK"
+msgstr ""
+
+#: extension/lib/logic/finance-cn.js:285 extension/lib/logic/finance-cn.js:290
+msgid "Offshore"
+msgstr ""
+
+#: extension/prefs.js:133
+msgid "One per line: name | phone | email. Phone and email may be blank. Up to 100 contacts."
+msgstr ""
+
+#: extension/prefs.js:110
+msgid "Online Data"
+msgstr ""
+
+#: extension/prefs.js:112
+msgid "Only the last successful source group is saved, not the IP address. The weather city, securities and currencies are not changed."
+msgstr ""
+
+#: extension/lib/gadgets/weather.js:23
+msgid "Only used by the CMA source. Other sources use latitude and longitude."
+msgstr ""
+
+#: extension/lib/ui/context-menu.js:33
+msgid "Opacity"
+msgstr ""
+
+#: extension/lib/gadgets/trash.js:19
+msgid "Open Trash"
+msgstr ""
+
+#: extension/lib/gadgets/rss.js:24
+msgid "Open feed"
+msgstr ""
+
+#: extension/lib/gadgets/trash.js:16 extension/lib/gadgets/trash.js:27
+msgid "Open system trash"
+msgstr ""
+
+#: extension/lib/logic/weather-global.js:32
+msgid "Open-Meteo cannot currently provide weather for this location"
+msgstr ""
+
+#: extension/lib/logic/weather-global.js:52
+msgid "Open-Meteo city search"
+msgstr ""
+
+#: extension/lib/logic/weather-global.js:34
+msgid "Open-Meteo is missing the current weather"
+msgstr ""
+
+#: extension/lib/logic/weather-global.js:36
+#: extension/lib/logic/weather-global.js:43
+msgid "Open-Meteo is missing the forecast"
+msgstr ""
+
+#: extension/helpers/options-window.js:105
+msgid "Options"
+msgstr ""
+
+#: extension/lib/gadgets/puzzle.js:12
+msgid "Original picture {number}"
+msgstr ""
+
+#: extension/lib/logic/network-region.js:5
+msgid "Outside mainland China"
+msgstr ""
+
+#: extension/lib/core.js:296 extension/lib/logic/weather-cn.js:317
+msgid "Overcast"
+msgstr ""
+
+#: extension/lib/ui/ui-logic.js:27
+msgid "Page {page} of {total}"
+msgstr ""
+
+#: extension/prefs.js:90
+msgid "Paper color"
+msgstr ""
+
+#: extension/lib/core.js:295 extension/lib/logic/weather-cn.js:317
+msgid "Partly cloudy"
+msgstr ""
+
+#: extension/lib/gadgets/photos.js:30
+msgid "Pause or play"
+msgstr ""
+
+#: extension/lib/gadgets/photos.js:17
+msgid "Pause slide show"
+msgstr ""
+
+#: extension/lib/gadgets/trash.js:91
+msgid "Permanently deleted {count} item{failures}"
+msgid_plural "Permanently deleted {count} items{failures}"
+msgstr[0] ""
+msgstr[1] ""
+
+#: extension/lib/core.js:17
+msgid "Picture Puzzle"
+msgstr ""
+
+#: extension/lib/gadgets/photos.js:15 extension/prefs.js:92
+msgid "Pictures folder"
+msgstr ""
+
+#: extension/lib/gadgets/calculator.js:11 extension/lib/gadgets/notes.js:15
+#: extension/prefs.js:90
+msgid "Pink"
+msgstr ""
+
+#: extension/prefs.js:57
+msgid "Positions reset"
+msgstr ""
+
+#: extension/lib/trash-drop.js:95
+msgid "Preparing file drops…"
+msgstr ""
+
+#: extension/lib/gadgets/notes.js:27
+msgid "Previous note"
+msgstr ""
+
+#: extension/helpers/gallery-window.js:36
+msgid "Previous page"
+msgstr ""
+
+#: extension/lib/gadgets/photos.js:29
+msgid "Previous picture"
+msgstr ""
+
+#: extension/helpers/options-window.js:156
+msgid "Previous style"
+msgstr ""
+
+#: extension/lib/gadgets/notes.js:15 extension/prefs.js:90
+msgid "Purple"
+msgstr ""
+
+#: extension/lib/gadgets/puzzle.js:31
+msgid "Puzzle tile {number}"
+msgstr ""
+
+#: extension/lib/gadgets/stocks.js:43 extension/lib/logic/finance-global.js:69
+msgid "Quote snapshot (may be delayed)"
+msgstr ""
+
+#: extension/lib/core.js:18 extension/lib/gadgets/rss.js:20
+msgid "RSS Feeds"
+msgstr ""
+
+#: extension/lib/core.js:299 extension/lib/logic/weather-cn.js:329
+msgid "Rain"
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:320
+msgid "Rainstorm"
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:324
+msgid "Rainstorm to severe rainstorm"
+msgstr ""
+
+#: extension/prefs.js:55
+msgid "Rearrange widgets"
+msgstr ""
+
+#: extension/lib/gadgets/trash.js:33
+msgid "Refresh"
+msgstr ""
+
+#: extension/lib/gadgets/network-gadget.js:15
+msgid "Refresh online data"
+msgstr ""
+
+#: extension/lib/gadgets/trash.js:30
+msgid "Refresh trash"
+msgstr ""
+
+#: extension/lib/logic/network-region.js:83
+msgid "Region detection cancelled"
+msgstr ""
+
+#: extension/helpers/gallery-window.js:54
+msgid "Remove"
+msgstr ""
+
+#: extension/helpers/gallery-window.js:54
+msgid "Remove from the desktop and keep its content"
+msgstr ""
+
+#: extension/lib/logic/network-region.js:66 extension/lib/platform.js:175
+msgid "Request cancelled"
+msgstr ""
+
+#: extension/lib/gadgets/timer.js:15
+msgid "Reset"
+msgstr ""
+
+#: extension/lib/gadgets/timer.js:15
+msgid "Reset timer"
+msgstr ""
+
+#: extension/lib/logic/finance-cn.js:284
+#: extension/lib/logic/finance-global.js:21 extension/lib/network-sources.js:87
+msgid "Same currency"
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:322
+msgid "Sandstorm"
+msgstr ""
+
+#: extension/lib/core.js:21
+msgid "Save and search local contacts."
+msgstr ""
+
+#: extension/prefs.js:139
+msgid "Save contacts"
+msgstr ""
+
+#: extension/prefs.js:34
+msgid "Saved"
+msgstr ""
+
+#: extension/prefs.js:151
+msgid "Saved {count} contact"
+msgid_plural "Saved {count} contacts"
+msgstr[0] ""
+msgstr[1] ""
+
+#: extension/lib/ui/options-dialog.js:28 extension/prefs.js:53
+msgid "Scale"
+msgstr ""
+
+#: extension/helpers/options-window.js:230
+msgid "Search by city name or pinyin"
+msgstr ""
+
+#: extension/helpers/gallery-window.js:46
+msgid "Search by name or English keyword"
+msgstr ""
+
+#: extension/lib/gadgets/weather.js:17
+msgid "Search cities or districts"
+msgstr ""
+
+#: extension/lib/gadgets/contacts.js:17
+msgid "Search contacts"
+msgstr ""
+
+#: extension/helpers/options-window.js:230
+msgid "Search failed"
+msgstr ""
+
+#: extension/lib/network-sources.js:144
+msgid "Search for a city or enter coordinates."
+msgstr ""
+
+#: extension/helpers/gallery-window.js:40
+msgid "Search widgets"
+msgstr ""
+
+#: extension/helpers/options-window.js:221
+msgid "Searching…"
+msgstr ""
+
+#: extension/lib/gadgets/contacts.js:21
+msgid ""
+"Select a contact\n"
+"to view their phone and email"
+msgstr ""
+
+#: extension/lib/network-sources.js:128
+msgid "Select a stock symbol"
+msgstr ""
+
+#: extension/lib/logic/finance-global.js:23
+msgid "Select a target currency"
+msgstr ""
+
+#: extension/helpers/gallery-window.js:147
+msgid "Select a widget"
+msgstr ""
+
+#: extension/lib/ui/options-model.js:42
+msgid "Select an option from the list"
+msgstr ""
+
+#: extension/lib/gadgets/weather.js:31
+msgid "Selected {location}"
+msgstr ""
+
+#: extension/lib/gadgets/rss.js:15
+msgid "Selects a feed using the network location."
+msgstr ""
+
+#: extension/lib/gadgets/weather.js:29
+msgid "Selects the nearest station when using station-based weather data"
+msgstr ""
+
+#: extension/lib/platform.js:140
+msgid "Service temporarily unavailable (HTTP {status})"
+msgstr ""
+
+#: extension/lib/gadgets/trash.js:71
+msgid "Service unavailable"
+msgstr ""
+
+#: extension/lib/gadget.js:146
+msgid "Settings"
+msgstr ""
+
+#: extension/lib/ui/context-menu.js:38
+msgid "Settings…"
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:328
+msgid "Severe haze"
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:320
+msgid "Severe rainstorm"
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:326
+msgid "Severe sandstorm"
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:324
+msgid "Severe to extreme rainstorm"
+msgstr ""
+
+#: extension/lib/logic/finance-cn.js:19
+msgid "Shanghai"
+msgstr ""
+
+#: extension/lib/logic/finance-cn.js:18
+msgid "Shenzhen"
+msgstr ""
+
+#: extension/lib/core.js:11
+msgid "Show CPU and memory usage."
+msgstr ""
+
+#: extension/prefs.js:50
+msgid "Show desktop widgets"
+msgstr ""
+
+#: extension/lib/gadgets/weather.js:24 extension/prefs.js:115
+msgid "Show place name automatically"
+msgstr ""
+
+#: extension/lib/core.js:20
+msgid "Show price snapshots for multiple securities."
+msgstr ""
+
+#: extension/lib/gadgets/clock.js:18 extension/prefs.js:85
+msgid "Show second hand"
+msgstr ""
+
+#: extension/lib/core.js:18
+msgid "Show the latest headlines from an RSS or Atom feed."
+msgstr ""
+
+#: extension/lib/core.js:22
+msgid "Show the status of the trash."
+msgstr ""
+
+#: extension/lib/core.js:10
+msgid "Show today's date."
+msgstr ""
+
+#: extension/extension.js:303 extension/lib/ui/context-menu.js:45
+msgid "Show widgets"
+msgstr ""
+
+#: extension/prefs.js:50
+msgid "Show “Add Widgets…” in the active DING menu"
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:318
+msgid "Showers"
+msgstr ""
+
+#: extension/lib/gadgets/puzzle.js:17
+msgid "Shuffle puzzle"
+msgstr ""
+
+#: extension/lib/trash-drop.js:184
+msgid "Signal {signal}"
+msgstr ""
+
+#: extension/lib/ui/options-dialog.js:27
+msgid "Size"
+msgstr ""
+
+#: extension/lib/trash-drop.js:332
+msgid "Skipped {count} non-local item"
+msgid_plural "Skipped {count} non-local items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: extension/lib/logic/weather-cn.js:319
+msgid "Sleet"
+msgstr ""
+
+#: extension/lib/core.js:14 extension/prefs.js:91
+msgid "Slide Show"
+msgstr ""
+
+#: extension/lib/gadgets/photos.js:16 extension/prefs.js:105
+msgid "Slide interval (seconds)"
+msgstr ""
+
+#: extension/lib/gadgets/photos.js:53 extension/lib/gadgets/photos.js:61
+msgid "Slide show: {detail}"
+msgstr ""
+
+#: extension/lib/gadget.js:172 extension/lib/ui/context-menu.js:29
+#: extension/lib/ui/options-dialog.js:27
+msgid "Small"
+msgstr ""
+
+#: extension/lib/core.js:300 extension/lib/logic/weather-cn.js:329
+msgid "Snow"
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:321
+msgid "Snow showers"
+msgstr ""
+
+#: extension/lib/gadgets/puzzle.js:37
+msgid "Solved!"
+msgstr ""
+
+#: extension/lib/gadgets/clock.js:15 extension/prefs.js:84
+msgid "Square"
+msgstr ""
+
+#: extension/lib/gadgets/timer.js:25
+msgid "Start or pause"
+msgstr ""
+
+#: extension/lib/gadgets/calendar.js:11 extension/prefs.js:88
+msgid "Start the week on Monday"
+msgstr ""
+
+#: extension/prefs.js:114
+msgid "Station ID"
+msgstr ""
+
+#: extension/lib/gadgets/weather.js:23
+msgid "Station ID (optional)"
+msgstr ""
+
+#: extension/helpers/options-window.js:83
+msgid "Station ID and fallback coordinates"
+msgstr ""
+
+#: extension/lib/logic/finance-cn.js:130
+msgid "Stock search service error ({error})"
+msgstr ""
+
+#: extension/prefs.js:130
+msgid "Stock symbol"
+msgstr ""
+
+#: extension/lib/gadgets/stocks.js:9
+msgid "Stock symbols (one per line, up to 10)"
+msgstr ""
+
+#: extension/lib/core.js:20
+msgid "Stocks"
+msgstr ""
+
+#: extension/prefs.js:129
+msgid "Stocks · Eastmoney / Yahoo Finance"
+msgstr ""
+
+#: extension/helpers/options-window.js:158
+msgid "Style"
+msgstr ""
+
+#: extension/lib/gadgets/trash.js:15
+msgid "Style 1"
+msgstr ""
+
+#: extension/lib/gadgets/trash.js:15
+msgid "Style 2"
+msgstr ""
+
+#: extension/lib/gadgets/trash.js:15
+msgid "Style 3"
+msgstr ""
+
+#: extension/lib/gadgets/trash.js:15
+msgid "Style 4"
+msgstr ""
+
+#: extension/prefs.js:91
+msgid "Supports PNG, JPEG and WebP. Each up to 20 MiB."
+msgstr ""
+
+#: extension/lib/logic/finance-cn.js:158
+msgid "Suspended / no price"
+msgstr ""
+
+#: extension/lib/gadgets/clock.js:15 extension/prefs.js:84
+msgid "System"
+msgstr ""
+
+#: extension/lib/ui/context-menu.js:50
+msgid "System Settings…"
+msgstr ""
+
+#: extension/lib/network-sources.js:158
+msgid "System location"
+msgstr ""
+
+#: extension/lib/network-sources.js:154
+msgid "System location or coordinates"
+msgstr ""
+
+#: extension/lib/location.js:29
+msgid "System location timed out or was cancelled"
+msgstr ""
+
+#: extension/lib/gadgets/currency.js:14
+msgid "Target currencies (up to 3)"
+msgstr ""
+
+#: extension/prefs.js:128
+msgid "Target currency"
+msgstr ""
+
+#: extension/lib/gadgets/weather.js:26
+msgid "Temperature"
+msgstr ""
+
+#: extension/lib/ui/gallery.js:59
+msgid "The GTK4 window could not start. Check the logs."
+msgstr ""
+
+#: extension/lib/ui/gallery.js:62
+msgid "The GTK4 window timed out while starting. Try again."
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:226
+msgid "The IP location service returned unexpected content"
+msgstr ""
+
+#: extension/lib/logic/weather-global.js:53
+msgid "The city search service returned invalid data"
+msgstr ""
+
+#: extension/lib/ui/options-dialog.js:99
+msgid "The connection to widget settings was interrupted"
+msgstr ""
+
+#: extension/lib/core.js:95
+msgid "The cpu line is missing from /proc/stat"
+msgstr ""
+
+#: extension/lib/network-sources.js:133
+msgid "The current weather source does not provide a station list"
+msgstr ""
+
+#: extension/helpers/gallery-drop-target.js:39
+msgid "The dragged item is not from this widget gallery"
+msgstr ""
+
+#: extension/lib/core.js:311
+msgid "The exchange rate service did not return this currency pair"
+msgstr ""
+
+#: extension/lib/core.js:290
+msgid "The feed contains no displayable entries with HTTPS links"
+msgstr ""
+
+#: extension/lib/core.js:273
+msgid "The feed is too large or contains unsupported XML declarations"
+msgstr ""
+
+#: extension/lib/trash-drop.js:194
+msgid "The file drop service exited repeatedly ({status}) and was disabled. Add the trash widget again to retry."
+msgstr ""
+
+#: extension/lib/trash-drop.js:199
+msgid "The file drop service exited; retrying in {count} second ({attempt}/{limit})"
+msgid_plural "The file drop service exited; retrying in {count} seconds ({attempt}/{limit})"
+msgstr[0] ""
+msgstr[1] ""
+
+#: extension/lib/logic/network-region.js:32
+msgid "The location service did not return a valid country or region"
+msgstr ""
+
+#: extension/prefs.js:148
+msgid "The name, phone number or email is too long"
+msgstr ""
+
+#: extension/lib/logic/finance-cn.js:171
+msgid "The quote has no latest price"
+msgstr ""
+
+#: extension/lib/platform.js:150
+msgid "The response exceeds the 2 MiB limit"
+msgstr ""
+
+#: extension/lib/core.js:247
+msgid "The result is out of range or not a real number"
+msgstr ""
+
+#: extension/lib/ui/options-dialog.js:109
+msgid "The settings message is too long"
+msgstr ""
+
+#: extension/lib/ui/options-dialog.js:60
+msgid "The settings window timed out while starting. Try again."
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:168 extension/lib/logic/weather-cn.js:177
+msgid "The station list is empty"
+msgstr ""
+
+#: extension/lib/location.js:35
+msgid "The system did not provide a valid location"
+msgstr ""
+
+#: extension/lib/core.js:306
+msgid "The weather service returned invalid data"
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:270
+msgid "The weather.com.cn observation is missing the temperature"
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:294
+msgid "The weather.com.cn response is missing the forecast"
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:243
+msgid "The weather.com.cn response is missing {field}"
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:241
+msgid "The weather.com.cn response is too large"
+msgstr ""
+
+#: extension/lib/ui/gallery.js:124 extension/lib/ui/gallery.js:184
+msgid "The widget gallery is closed"
+msgstr ""
+
+#: extension/lib/ui/gallery.js:134
+msgid "The widget gallery message is too long"
+msgstr ""
+
+#: extension/helpers/desktop-menu-prepare.py:56
+msgid "This DING menu structure is not supported; the desktop menu was not changed"
+msgstr ""
+
+#: extension/lib/trash-drop.js:61
+msgid "This GNOME Shell version does not support dropping files into the trash"
+msgstr ""
+
+#: extension/lib/gadgets/rss.js:16
+msgid "This HTTPS URL is used when automatic feed selection is off"
+msgstr ""
+
+#: extension/lib/platform.js:168
+msgid "This request is not cached on disk"
+msgstr ""
+
+#: extension/lib/gadgets/trash.js:80
+msgid ""
+"This {count} item will be permanently deleted and cannot be recovered.\n"
+"Cancel to keep it."
+msgid_plural ""
+"These {count} items will be permanently deleted and cannot be recovered.\n"
+"Cancel to keep them."
+msgstr[0] ""
+msgstr[1] ""
+
+#: extension/lib/logic/weather-cn.js:318
+msgid "Thundershowers"
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:318
+msgid "Thundershowers with hail"
+msgstr ""
+
+#: extension/lib/core.js:301
+msgid "Thunderstorms"
+msgstr ""
+
+#: extension/lib/gadgets/timer.js:40
+msgid "Time is up."
+msgstr ""
+
+#: extension/lib/gadgets/clock.js:17
+msgid "Time zone"
+msgstr ""
+
+#: extension/prefs.js:87
+msgid "Time zone (blank for system default)"
+msgstr ""
+
+#: extension/lib/core.js:16 extension/lib/gadgets/timer.js:40
+#: extension/prefs.js:106
+msgid "Timer"
+msgstr ""
+
+#: extension/lib/gadgets/timer.js:39
+msgid "Timer {time}; click the digits or scroll to adjust the duration, and click the bottom to start or pause"
+msgstr ""
+
+#: extension/lib/core.js:217
+msgid "Too many nested parentheses"
+msgstr ""
+
+#: extension/lib/platform.js:135
+msgid "Too many redirects"
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:326
+msgid "Tornado"
+msgstr ""
+
+#: extension/lib/logic/finance-cn.js:208
+msgid "Trading"
+msgstr ""
+
+#: extension/lib/gadgets/clock.js:15 extension/prefs.js:84
+msgid "Traditional"
+msgstr ""
+
+#: extension/lib/core.js:22 extension/lib/gadgets/trash.js:34
+#: extension/lib/gadgets/trash.js:91 extension/lib/trash-drop.js:333
+msgid "Trash"
+msgstr ""
+
+#: extension/lib/gadgets/trash.js:31
+msgid "Trash Settings"
+msgstr ""
+
+#: extension/lib/gadgets/trash.js:14
+msgid "Trash style"
+msgstr ""
+
+#: extension/lib/gadgets/trash.js:61
+msgid "Trash: {count} item. Drop files here, or click to open and restore files."
+msgid_plural "Trash: {count} items. Drop files here, or click to open and restore files."
+msgstr[0] ""
+msgstr[1] ""
+
+#: extension/lib/gadgets/trash.js:71
+msgid "Trash: {error}"
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:334
+msgid "Unknown"
+msgstr ""
+
+#: extension/helpers/trash-drop-target.js:50
+msgid "Unknown argument: {argument}"
+msgstr ""
+
+#: extension/helpers/trash-drop-target.js:156
+msgid "Unknown command: {command}"
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:42
+msgid "Unknown error"
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:429
+msgid "Unknown location"
+msgstr ""
+
+#: extension/lib/core.js:302
+msgid "Unknown weather"
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:70
+msgid "Unknown weather.com.cn data type: {type}"
+msgstr ""
+
+#: extension/helpers/options-window.js:178
+msgid "Unknown widget option type: {type}"
+msgstr ""
+
+#: extension/lib/dbus.js:38
+msgid "Unknown widget type: {type} (available: {types})"
+msgstr ""
+
+#: extension/extension.js:145 extension/extension.js:157
+#: extension/lib/original-widgets.js:28
+msgid "Unknown widget: {type}"
+msgstr ""
+
+#: extension/lib/core.js:209
+msgid "Unsupported character: {character}"
+msgstr ""
+
+#: extension/lib/logic/finance-cn.js:261
+msgid "Unsupported currency: {code}"
+msgstr ""
+
+#: extension/lib/core.js:277
+msgid "Untitled"
+msgstr ""
+
+#: extension/prefs.js:143
+msgid "Up to 100 contacts can be saved"
+msgstr ""
+
+#: extension/lib/gadgets/network-gadget.js:34
+msgid "Update failed; showing cached data from {time}"
+msgstr ""
+
+#: extension/lib/gadgets/network-gadget.js:34
+msgid "Updated {time}"
+msgstr ""
+
+#: extension/prefs.js:113
+msgid "Updates every 10 minutes."
+msgstr ""
+
+#: extension/prefs.js:120
+msgid "Updates every 15 minutes."
+msgstr ""
+
+#: extension/prefs.js:129
+msgid "Updates quote snapshots every 10 minutes; data may be delayed."
+msgstr ""
+
+#: extension/lib/gadgets/network-gadget.js:24
+#: extension/lib/gadgets/stocks.js:30 extension/lib/gadgets/weather.js:43
+msgid "Updating…"
+msgstr ""
+
+#: extension/helpers/trash-drop-target.js:49
+msgid "Usage: gjs -m trash-drop-target.js --title <title> --width <width> --height <height>"
+msgstr ""
+
+#: extension/lib/gadgets/weather.js:26 extension/prefs.js:119
+msgid "Use Fahrenheit (°F)"
+msgstr ""
+
+#: extension/lib/core.js:257
+msgid "Use an HTTPS URL without a username or password"
+msgstr ""
+
+#: extension/prefs.js:147
+msgid "Use the format “name | phone | email”"
+msgstr ""
+
+#: extension/lib/gadgets/weather.js:29
+msgid "Use these coordinates"
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:327
+msgid "Very dense fog"
+msgstr ""
+
+#: extension/lib/gadgets/puzzle.js:18
+msgid "View completed picture"
+msgstr ""
+
+#: extension/lib/gadgets/photos.js:35
+msgid "View current picture"
+msgstr ""
+
+#: extension/lib/core.js:13
+msgid "View the current weather in the selected city."
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:394
+msgid "Waning crescent"
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:394
+msgid "Waning gibbous"
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:394
+msgid "Waxing crescent"
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:394
+msgid "Waxing gibbous"
+msgstr ""
+
+#: extension/lib/core.js:13 extension/lib/gadgets/weather.js:79
+msgid "Weather"
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:76 extension/lib/logic/weather-cn.js:78
+#: extension/lib/logic/weather-cn.js:112 extension/lib/logic/weather-cn.js:122
+msgid "Weather data is missing station information"
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:89
+msgid "Weather data is missing the current temperature"
+msgstr ""
+
+#: extension/lib/logic/weather-cn.js:114 extension/lib/logic/weather-cn.js:116
+msgid "Weather data is missing the forecast"
+msgstr ""
+
+#: extension/prefs.js:113
+msgid "Weather · CMA / Open-Meteo"
+msgstr ""
+
+#: extension/lib/gadgets/notes.js:15 extension/prefs.js:90
+msgid "White"
+msgstr ""
+
+#: extension/lib/ui/gallery.js:62 extension/lib/ui/gallery.js:145
+#: extension/prefs.js:63 extension/prefs.js:64
+msgid "Widget Gallery"
+msgstr ""
+
+#: extension/helpers/options-window.js:74
+#: extension/lib/ui/options-dialog.js:135
+msgid "Widget Settings"
+msgstr ""
+
+#: extension/lib/dbus.js:48
+msgid "Widget is not enabled: {type}"
+msgstr ""
+
+#: extension/lib/ui/options-dialog.js:93 extension/lib/ui/options-dialog.js:187
+msgid "Widget settings are closed"
+msgstr ""
+
+#: extension/extension.js:109 extension/extension.js:133
+#: extension/extension.js:290 extension/extension.js:292
+#: extension/extension.js:299 extension/helpers/gadget-gallery.js:13
+#: extension/helpers/gadget-options.js:14
+#: extension/helpers/trash-drop-target.js:65
+#: extension/lib/ui/desktop-menu.js:67
+msgid "Windows Vista/7 Widgets"
+msgstr ""
+
+#: extension/prefs.js:14
+msgid "Windows Vista/7 Widgets Settings"
+msgstr ""
+
+#: extension/lib/ui/desktop-menu.js:66
+msgid "Windows Vista/7 Widgets: desktop menu integration failed"
+msgstr ""
+
+#: extension/extension.js:89
+msgid "Windows Vista/7 Widgets: failed to load stylesheet {directory}/{file}"
+msgstr ""
+
+#: extension/lib/ui/gallery.js:63
+msgid "Windows Vista/7 Widgets: widget gallery"
+msgstr ""
+
+#: extension/helpers/options-window.js:174
+msgid "Working…"
+msgstr ""
+
+#: extension/lib/core.js:12
+msgid "Write notes."
+msgstr ""
+
+#: extension/lib/logic/finance-global.js:56
+msgid "Yahoo Finance could not find this security. Enter a stock symbol."
+msgstr ""
+
+#: extension/lib/logic/finance-global.js:62
+msgid "Yahoo Finance did not return a quote"
+msgstr ""
+
+#: extension/lib/logic/finance-global.js:53
+msgid "Yahoo Finance search"
+msgstr ""
+
+#: extension/lib/gadgets/calculator.js:11 extension/lib/gadgets/notes.js:15
+#: extension/prefs.js:90
+msgid "Yellow"
+msgstr ""
+
+#: extension/lib/trash-drop.js:62
+msgid "gjs was not found; file drops cannot be enabled"
+msgstr ""
+
+#: extension/lib/logic/network-region.js:57
+msgid "ipapi.co location lookup failed"
+msgstr ""
+
+#: extension/lib/logic/network-region.js:52
+msgid "ipwho.is location lookup failed"
+msgstr ""
+
+#: extension/lib/gadgets/contacts.js:37
+msgid "{count} contact"
+msgid_plural "{count} contacts"
+msgstr[0] ""
+msgstr[1] ""
+
+#: extension/lib/gadgets/trash.js:53 extension/lib/gadgets/trash.js:57
+msgid "{count} item"
+msgid_plural "{count} items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: extension/lib/gadgets/puzzle.js:37
+msgid "{count} move"
+msgid_plural "{count} moves"
+msgstr[0] ""
+msgstr[1] ""
+
+#: extension/lib/ui/options-model.js:47
+msgid "{field}: {error}"
+msgstr ""
+
+#: extension/lib/gadgets/stocks.js:50
+msgid "{name} ({code}) · {time}{zone} · {status}"
+msgstr ""
+
+#: extension/lib/gadgets/contacts.js:34
+msgid "{name}; click to copy contact details"
+msgstr ""
+
+#: extension/lib/trash-drop.js:280
+msgid "{prefix}: cannot move window"
+msgstr ""
+
+#: extension/lib/trash-drop.js:244
+msgid "{prefix}: cannot raise window"
+msgstr ""
+
+#: extension/lib/trash-drop.js:198
+msgid "{prefix}: exited ({status}); restarting in {count} second ({attempt}/{limit})"
+msgid_plural "{prefix}: exited ({status}); restarting in {count} seconds ({attempt}/{limit})"
+msgstr[0] ""
+msgstr[1] ""
+
+#: extension/lib/trash-drop.js:193
+msgid "{prefix}: exited {count} time in a row ({status}); no more restarts"
+msgid_plural "{prefix}: exited {count} times in a row ({status}); no more restarts"
+msgstr[0] ""
+msgstr[1] ""
+
+#: extension/lib/trash-drop.js:148
+msgid "{prefix}: failed to read output"
+msgstr ""
+
+#: extension/lib/trash-drop.js:172
+msgid "{prefix}: failed to send command"
+msgstr ""
+
+#: extension/lib/trash-drop.js:127
+msgid "{prefix}: failed to start"
+msgstr ""
+
+#: extension/lib/trash-drop.js:140
+msgid "{prefix}: not ready after {count} second; terminating"
+msgid_plural "{prefix}: not ready after {count} seconds; terminating"
+msgstr[0] ""
+msgstr[1] ""
+
+#: extension/lib/trash-drop.js:229
+msgid "{prefix}: window setup failed"
+msgstr ""
+
+#: extension/lib/trash-drop.js:106
+msgid "{prefix}: {hook} callback failed"
+msgstr ""
+
+#: extension/lib/gadgets/network-gadget.js:38
+msgid ""
+"{provider} · Update failed: {error}\n"
+"{region}"
+msgstr ""
+
+#: extension/lib/logic/network-region.js:16
+msgid "{source} returned invalid data"
+msgstr ""
+
+#: extension/lib/logic/network-region.js:14
+#: extension/lib/logic/weather-cn.js:34 extension/lib/logic/weather-cn.js:36
+msgid "{source} returned non-JSON content"
+msgstr ""
+
+#: extension/helpers/options-window.js:158
+msgid "{style} preview"
+msgstr ""
+
+#: extension/lib/gadget.js:176
+msgid "{type}: build() is not implemented"
+msgstr ""
+
+#: extension/lib/ui/options-dialog.js:35
+msgid "{widget} Settings"
+msgstr ""
+
+#: extension/lib/dbus.js:54
+msgid "{widget} has no large size"
+msgstr ""
+
+#: extension/lib/ui/gallery.js:150
+msgid "{widget} was added to the desktop"
+msgstr ""
+
+#: extension/lib/ui/gallery.js:172
+msgid "{widget} was placed on the desktop"
+msgstr ""
+
+#: extension/lib/gadgets/network-gadget.js:36
+msgid "{widget}; {details}"
+msgstr ""
+
+#: extension/helpers/gallery-window.js:101
+#: extension/helpers/gallery-window.js:149
+msgid "✓ Added"
+msgstr ""

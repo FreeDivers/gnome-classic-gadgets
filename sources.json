@@ -1,0 +1,206 @@
+{
+  "schema_version": 1,
+  "collected_at": "2026-09-08T10:58:46+08:00",
+  "purpose": "收集用于在 Ubuntu 独立重写 Windows 7/Vista 风格小工具的上游源码参考；未实现 Ubuntu 移植版。",
+  "observed_environment": {
+    "os": "Ubuntu 26.04.1 LTS",
+    "desktop": "GNOME Shell 50.1",
+    "session": "Wayland"
+  },
+  "repositories": [
+    {
+      "repository": "PF94/VistaGadgets_v2.0",
+      "url": "https://github.com/PF94/VistaGadgets_v2.0",
+      "origin": "https://github.com/PF94/VistaGadgets_v2.0.git",
+      "local_path": "upstream/VistaGadgets_v2.0",
+      "branch": "master",
+      "commit": "9e2780ad1b58fc5c3db88acf0dc424449b125943",
+      "commit_time": "2020-01-04T17:57:07-05:00",
+      "archived_at_research": false,
+      "shallow_clone": false,
+      "partial_clone_filter": null,
+      "sparse_checkout_paths": [],
+      "gadget_source_path": "upstream/VistaGadgets_v2.0",
+      "gadget_count": 14,
+      "gadget_directories": [
+        "CPU.Gadget",
+        "Calculator.Gadget",
+        "Calendar.Gadget",
+        "Clock.Gadget",
+        "Contacts.Gadget",
+        "Currency.Gadget",
+        "Notes.Gadget",
+        "PicturePuzzle.Gadget",
+        "RSSFeeds.Gadget",
+        "RecycleBin.Gadget",
+        "SlideShow.Gadget",
+        "Stocks.Gadget",
+        "Timer.Gadget",
+        "Weather.Gadget"
+      ],
+      "source_file_counts": {
+        ".html": 43,
+        ".js": 59,
+        ".css": 40,
+        ".xml": 25
+      },
+      "license": {
+        "spdx_id": null,
+        "file": null,
+        "note": "无统一开源许可证；已确认部分微软源文件含限制用于其他 UI/产品组件的声明。"
+      },
+      "verification": {
+        "working_tree_clean": true,
+        "git_connectivity_check": "passed"
+      },
+      "asset_snapshot_commit": "052da8efccb3b0813469fbc10eceeb52fb100a70",
+      "asset_snapshot_reason": "Fetched history and imported image bytes before 9e2780a modified puzzle background and Garden.jpg."
+    },
+    {
+      "repository": "Rectify11/Gadgets",
+      "url": "https://github.com/Rectify11/Gadgets",
+      "origin": "https://github.com/Rectify11/Gadgets.git",
+      "local_path": "upstream/Rectify11-Gadgets",
+      "branch": "main",
+      "commit": "a06af838755e71a75e5e9c4305046fb28721e743",
+      "commit_time": "2024-07-21T20:10:52+02:00",
+      "archived_at_research": true,
+      "shallow_clone": true,
+      "partial_clone_filter": null,
+      "sparse_checkout_paths": [],
+      "gadget_source_path": "upstream/Rectify11-Gadgets/GPInstallerBuilder/Files64/Gadgets",
+      "gadget_count": 35,
+      "gadget_directories": [
+        "All_CPU_Meter.gadget",
+        "AppLauncher.gadget",
+        "Battery.gadget",
+        "CPU.Gadget",
+        "Calendar.Gadget",
+        "Clock.Gadget",
+        "ClockDigital.gadget",
+        "ColorPalette.gadget",
+        "ControlPanel.gadget",
+        "Control_System.gadget",
+        "Countdown2Date.gadget",
+        "Currency.Gadget",
+        "DriveActivity.gadget",
+        "DriveInfo.gadget",
+        "Gpugadgetnew.gadget",
+        "MSN Weather 2_0.gadget",
+        "MiniRadio.gadget",
+        "MonitorOff.gadget",
+        "Mousometer.gadget",
+        "Network_Meter_V8.4.gadget",
+        "POP3Checker.gadget",
+        "Piano.gadget",
+        "PicturePuzzle.Gadget",
+        "PowerStatus.gadget",
+        "RDSafely.gadget",
+        "RecycleBin.gadget",
+        "SearchALL.gadget",
+        "ShutdownRestart.gadget",
+        "Sidebar7.gadget",
+        "SlideShow.Gadget",
+        "TurnoffPC.gadget",
+        "Unit_Converter.gadget",
+        "Volume_Control.gadget",
+        "WeatherCenter.gadget",
+        "mainweather.gadget"
+      ],
+      "source_file_counts": {
+        ".html": 128,
+        ".htm": 2,
+        ".js": 243,
+        ".css": 67,
+        ".xml": 157,
+        ".vbs": 2
+      },
+      "license": {
+        "spdx_id": null,
+        "file": null,
+        "note": "无统一开源许可证；合集内组件分别授权；已确认时钟代码含微软使用限制。"
+      },
+      "verification": {
+        "working_tree_clean": true,
+        "git_connectivity_check": "passed"
+      }
+    },
+    {
+      "repository": "microsoft/Windows-classic-samples",
+      "url": "https://github.com/microsoft/Windows-classic-samples",
+      "origin": "https://github.com/microsoft/Windows-classic-samples.git",
+      "local_path": "upstream/Windows-classic-samples",
+      "branch": "main",
+      "commit": "434f6002bdf9cf9829406c3ff2b33387982d6168",
+      "commit_time": "2026-09-02T17:00:00-07:00",
+      "archived_at_research": null,
+      "shallow_clone": true,
+      "partial_clone_filter": "blob:none",
+      "sparse_checkout_paths": [
+        "Samples/Win7Samples/winui/sidebar"
+      ],
+      "gadget_source_path": "upstream/Windows-classic-samples/Samples/Win7Samples/winui/sidebar",
+      "gadget_count": 6,
+      "gadget_directories": [
+        "sdk_docked.gadget",
+        "sdk_flyout.gadget",
+        "sdk_graphicsapi.gadget",
+        "sdk_helloworld.gadget",
+        "sdk_settings.gadget",
+        "sdk_systemdebug.gadget"
+      ],
+      "source_file_counts": {
+        ".html": 9,
+        ".js": 8,
+        ".css": 8,
+        ".xml": 6,
+        ".cpp": 1
+      },
+      "license": {
+        "spdx_id": "MIT",
+        "file": "LICENSE",
+        "note": "根目录 MIT；保留适用版权及许可声明。不是其他合集内置小工具的授权。"
+      },
+      "verification": {
+        "working_tree_clean": true,
+        "git_connectivity_check": "passed"
+      },
+      "metadata_note": "未单独核验归档标志；补充 GitHub API 核验遇到匿名请求限流。本地克隆、提交、源码及完整性已验证。"
+    },
+    {
+      "repository": "strobejb/supercalc",
+      "url": "https://github.com/strobejb/supercalc",
+      "origin": "https://github.com/strobejb/supercalc.git",
+      "local_path": "upstream/supercalc",
+      "branch": "master",
+      "commit": "8a898cc41af2c7e468e1ec8fabbe78f783c02895",
+      "commit_time": "2012-08-02T19:24:17+02:00",
+      "archived_at_research": true,
+      "shallow_clone": true,
+      "partial_clone_filter": null,
+      "sparse_checkout_paths": [],
+      "gadget_source_path": "upstream/supercalc",
+      "gadget_count": 1,
+      "gadget_directories": [
+        "."
+      ],
+      "source_file_counts": {
+        ".html": 2,
+        ".htm": 1,
+        ".js": 4,
+        ".css": 1,
+        ".xml": 1,
+        ".vbs": 1
+      },
+      "license": {
+        "spdx_id": "MIT",
+        "file": "LICENCE.TXT",
+        "note": "第三方 7Calc；已核实主要 JavaScript 文件声明 MIT。"
+      },
+      "verification": {
+        "working_tree_clean": true,
+        "git_connectivity_check": "passed"
+      }
+    }
+  ]
+}
