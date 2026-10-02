@@ -6,7 +6,7 @@ Windows Vista / 7-style widgets for the GNOME desktop.
 
 There are 14 widgets: Clock, Calendar, CPU / Memory, Notes, Weather, Slide Show, Calculator, Timer, Picture Puzzle, RSS Feeds, Currency Converter, Stocks, Contacts and Trash. Choose between Classic and Fluent skins.
 
-![Desktop widgets with Classic skins](docs/classic-large.png)
+![Desktop widgets with Classic skins](docs/calendar-expanded.png)
 
 ## Install and update
 
