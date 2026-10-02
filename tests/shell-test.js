@@ -4,7 +4,7 @@ import Clutter from 'gi://Clutter';
 import Shell from 'gi://Shell';
 import * as Main from 'resource:///org/gnome/shell/ui/main.js';
 import {GADGETS, DEFAULT_ENABLED, SOLVED, validPuzzle, solvablePuzzle} from '../extension/lib/core.js';
-const UUID = 'classic-gadgets@qinyan.local';
+const UUID = 'classic-gadgets@FreeDivers.github.io';
 const wait = ms => new Promise(resolve => GLib.timeout_add(GLib.PRIORITY_DEFAULT, ms, () => { resolve(); return GLib.SOURCE_REMOVE; }));
 export async function screenshot(path) {
     const output = Gio.File.new_for_path(path).replace(null, false, Gio.FileCreateFlags.REPLACE_DESTINATION, null);

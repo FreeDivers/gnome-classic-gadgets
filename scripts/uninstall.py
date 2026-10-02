@@ -7,7 +7,7 @@ import shutil
 import subprocess
 import sys
 
-UUID = 'classic-gadgets@qinyan.local'
+UUID = 'classic-gadgets@FreeDivers.github.io'
 if os.geteuid() == 0:
     raise SystemExit('请用普通用户运行，不要加 sudo。')
 target = Path(os.environ.get('XDG_DATA_HOME', Path.home() / '.local/share')) / 'gnome-shell/extensions' / UUID

@@ -14,7 +14,7 @@ result = json.loads((artifacts / 'result.json').read_text())
 prefs = json.loads((artifacts / 'prefs-result.json').read_text())
 assert result['ok'] and prefs['ok'], 'Do not publish failed test captures as success'
 # Prove the screenshot is from exactly the currently-shipped extension files.
-snapshot = RUN / 'data/gnome-shell/extensions/classic-gadgets@qinyan.local'
+snapshot = RUN / 'data/gnome-shell/extensions/classic-gadgets@FreeDivers.github.io'
 files = {}
 for path in sorted((ROOT / 'extension').rglob('*')):
     if not path.is_file():

@@ -14,7 +14,7 @@ python3 "$ROOT/scripts/import-original-assets.py" --check
 RUN=$(mktemp -d "$ROOT/build/shell-test.XXXXXX")
 mkdir -p "$RUN"/{data,config,cache,state,runtime,artifacts}
 chmod 700 "$RUN/runtime"
-UUID=classic-gadgets@qinyan.local
+UUID=classic-gadgets@FreeDivers.github.io
 mkdir -p "$RUN/data/gnome-shell/extensions/$UUID" "$RUN/data/gnome-shell/extensions/classic-gadgets-test@local"
 cp -a "$ROOT/extension/." "$RUN/data/gnome-shell/extensions/$UUID/"
 cp -a "$ROOT/tests/driver/." "$RUN/data/gnome-shell/extensions/classic-gadgets-test@local/"

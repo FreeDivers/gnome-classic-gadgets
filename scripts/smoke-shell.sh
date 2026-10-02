@@ -56,7 +56,7 @@ RUN=$(mktemp -d "$ROOT/build/smoke-run.XXXXXX")
 trap 'rm -rf "$RUN"' EXIT
 mkdir -p "$RUN"/{data,config/glib-2.0/settings,cache,state,runtime}
 chmod 700 "$RUN/runtime"
-UUID=classic-gadgets@qinyan.local
+UUID=classic-gadgets@FreeDivers.github.io
 DRIVER=classic-gadgets-smoke@local
 mkdir -p "$RUN/data/gnome-shell/extensions/$UUID" "$RUN/data/gnome-shell/extensions/$DRIVER"
 cp -a "$ROOT/extension/." "$RUN/data/gnome-shell/extensions/$UUID/"

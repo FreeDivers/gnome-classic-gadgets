@@ -9,7 +9,7 @@ import tempfile
 import zipfile
 
 ROOT = Path(__file__).resolve().parent.parent
-UUID = 'classic-gadgets@qinyan.local'
+UUID = 'classic-gadgets@FreeDivers.github.io'
 checks = []
 
 def check(condition, name):

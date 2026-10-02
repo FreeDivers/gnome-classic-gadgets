@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 # CG_TEST_EXTENSIONS / CG_TEST_TIMEOUT let scripts/smoke-shell.sh reuse this session with its own driver.
-gsettings set org.gnome.shell enabled-extensions "${CG_TEST_EXTENSIONS:-['classic-gadgets@qinyan.local', 'classic-gadgets-test@local']}"
+gsettings set org.gnome.shell enabled-extensions "${CG_TEST_EXTENSIONS:-['classic-gadgets@FreeDivers.github.io', 'classic-gadgets-test@local']}"
 gsettings set org.gnome.shell disable-user-extensions false
 if [ -n "${CG_TEST_DING_SOURCE:-}" ]; then
     gsettings set org.gnome.shell disabled-extensions "['ubuntu-dock@ubuntu.com', 'ubuntu-appindicators@ubuntu.com', 'tiling-assistant@ubuntu.com', 'snapd-prompting@canonical.com', 'snapd-search-provider@canonical.com', 'web-search-provider@ubuntu.com']"

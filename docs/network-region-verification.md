@@ -1,5 +1,7 @@
 # 启动时按地区选择数据源 · 验证记录
 
+说明：以下是 UUID 更名前的历史验证记录，JSON 中的旧安装包路径和校验值保持原样；当前构建使用 `classic-gadgets@FreeDivers.github.io`。
+
 > 本页保留数据源切换完成时的快照。后续字体改动和最新网络路由回归见 [字体排版验证](typography-verification.md)。
 
 验证日期：**2026-09-13**。环境：Ubuntu 26.04.1 LTS / GNOME Shell 50.1 / GJS 1.88.0 / Node 22.22.1。
@@ -40,7 +42,7 @@ bash scripts/smoke-shell.sh weather --size large \
   --script tests/smoke/scripts/location.js --out build/smoke/network-location
 ```
 
-安装包：`dist/classic-gadgets@qinyan.local.shell-extension.zip`，旁边的 `.sha256` 文件提供校验值。本次测试没有安装到用户正在运行的扩展目录，也没有注销、重启或替换用户桌面。
+当前构建输出：`dist/classic-gadgets@FreeDivers.github.io.shell-extension.zip`，旁边的 `.sha256` 文件提供校验值。本次测试没有安装到用户正在运行的扩展目录，也没有注销、重启或替换用户桌面。
 
 ## 真实联网与模拟边界
 

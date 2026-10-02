@@ -12,7 +12,8 @@ import tempfile
 import zipfile
 from build import build
 
-UUID = 'classic-gadgets@qinyan.local'
+UUID = 'classic-gadgets@FreeDivers.github.io'
+LEGACY_UUID = 'classic-gadgets@qinyan.local'
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
@@ -30,10 +31,18 @@ def main():
     parent = data / 'gnome-shell/extensions'
     parent.mkdir(parents=True, exist_ok=True)
     target = parent / UUID
-    if target.is_symlink():
-        raise SystemExit(f'安装路径是符号链接，请先自行确认：{target}')
+    legacy_target = parent / LEGACY_UUID
+    # Validate both directories before disabling or moving either installation.
+    for existing, expected_uuid in [(target, UUID), (legacy_target, LEGACY_UUID)]:
+        if existing.is_symlink():
+            raise SystemExit(f'安装路径是符号链接，请先自行确认：{existing}')
+        if existing.exists():
+            info = existing / 'metadata.json'
+            if not info.is_file() or json.loads(info.read_text()).get('uuid') != expected_uuid:
+                raise SystemExit(f'目标目录不是本扩展，未覆盖：{existing}')
     staging = Path(tempfile.mkdtemp(prefix='.classic-gadgets-', dir=parent))
-    backup = None
+    backups = []
+    legacy_disabled = False
     try:
         with zipfile.ZipFile(bundle) as archive:
             for name in archive.namelist():
@@ -42,24 +51,36 @@ def main():
             archive.extractall(staging)
         metadata = json.loads((staging / 'metadata.json').read_text())
         assert metadata['uuid'] == UUID
-        if target.exists():
-            info = target / 'metadata.json'
-            if not info.is_file() or json.loads(info.read_text()).get('uuid') != UUID:
-                raise SystemExit(f'目标目录不是本扩展，未覆盖：{target}')
-            backup = state / 'classic-desktop-gadgets/backups' / datetime.now().strftime('%Y%m%d-%H%M%S-%f') / UUID
-            backup.parent.mkdir(parents=True, exist_ok=True)
-            shutil.move(str(target), backup)
+        if legacy_target.exists() and not args.no_enable:
+            result = subprocess.run(['gnome-extensions', 'disable', LEGACY_UUID], capture_output=True, text=True)
+            if result.returncode:
+                raise SystemExit('无法禁用旧 UUID，未移动已有安装。请在 GNOME 会话中重试；'
+                                 '离线安装可用 --no-enable，完成后须重新登录再启用新版。')
+            legacy_disabled = True
+        backup_root = state / 'classic-desktop-gadgets/backups' / datetime.now().strftime('%Y%m%d-%H%M%S-%f')
+        for existing in [legacy_target, target]:
+            if existing.exists():
+                backup = backup_root / existing.name
+                backup.parent.mkdir(parents=True, exist_ok=True)
+                shutil.move(str(existing), backup)
+                backups.append((existing, backup))
         staging.rename(target)
     except BaseException:
-        if backup and not target.exists():
-            shutil.move(str(backup), target)
+        for original, backup in reversed(backups):
+            if not original.exists():
+                shutil.move(str(backup), original)
+        if legacy_disabled:
+            # Do not blindly re-enable an installation that may already have been disabled.
+            print(f'安装失败，旧版文件已恢复。如需启用旧版：gnome-extensions enable {LEGACY_UUID}', file=sys.stderr)
         raise
     finally:
         if staging.exists():
             shutil.rmtree(staging)
     print(f'已安装：{target}')
-    if backup:
+    for original, backup in backups:
         print(f'上一版备份：{backup}')
+        if original == legacy_target:
+            print('旧 UUID 已迁移；设置和个人数据不变。请保存工作并重新登录后再使用新版。')
     # Safely archive/restore only the obsolete override created by our old
     # installer. Ubuntu does not load it. Runtime integration follows the
     # actual DING extension; it never installs a second same-UUID extension.

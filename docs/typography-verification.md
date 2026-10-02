@@ -1,5 +1,7 @@
 # 组件字体与排版
 
+说明：以下是 UUID 更名前的历史验证记录，JSON 中的旧安装包路径和校验值保持原样；当前构建使用 `classic-gadgets@FreeDivers.github.io`。
+
 本次调整针对桌面组件里的文字，不更换原版皮肤图片，也不改系统字体设置。经典和 Fluent 两套皮肤、大尺寸和小尺寸都进行了检查。
 
 ## 各组件的调整
@@ -67,7 +69,7 @@ npm run test:typography
 python3 scripts/render-typography.py   # 从测试截图生成上述图册
 ```
 
-安装包已更新到 `dist/classic-gadgets@qinyan.local.shell-extension.zip`，同目录提供 SHA-256。测试安装只使用临时目录，没有覆盖用户实际安装的扩展。
+当前构建输出为 `dist/classic-gadgets@FreeDivers.github.io.shell-extension.zip`，同目录提供 SHA-256。测试安装只使用临时目录，没有覆盖用户实际安装的扩展。
 
 ```bash
 python3 scripts/install.py

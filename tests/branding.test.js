@@ -9,14 +9,26 @@ const root = fileURLToPath(new URL('..', import.meta.url));
 const read = name => readFileSync(join(root, name), 'utf8');
 const oldBrand = /Classic\s+(?:Desktop\s+)?(?:Gadgets|Widgets)|经典(?:桌面)?(?:小组件|小工具)/i;
 
-test('extension metadata uses the requested name without changing persistent identifiers', () => {
+test('extension metadata uses the public UUID while retaining settings and service identifiers', () => {
     const metadata = JSON.parse(read('extension/metadata.json'));
     assert.equal(metadata.name, 'Windows Vista/7 小组件');
     assert.match(metadata.description, /^Windows Vista\/7 小组件/);
-    assert.equal(metadata.uuid, 'classic-gadgets@qinyan.local');
+    assert.equal(metadata.uuid, 'classic-gadgets@FreeDivers.github.io');
     assert.equal(metadata['settings-schema'], 'org.gnome.shell.extensions.classic-gadgets');
     assert.equal(metadata['gettext-domain'], 'classic-gadgets');
     assert.match(read('extension/lib/dbus.js'), /org\.gnome\.Shell\.Extensions\.ClassicGadgets/);
+});
+
+test('installers and Shell test launchers use the public extension UUID', () => {
+    const {uuid} = JSON.parse(read('extension/metadata.json'));
+    for (const file of [
+        'scripts/install.py', 'scripts/uninstall.py', 'scripts/test-install.py',
+        'scripts/test-shell.sh', 'scripts/smoke-shell.sh', 'scripts/test-session.sh',
+        'scripts/publish-test-evidence.py', 'tests/shell-test.js', 'tests/smoke/driver/extension.js',
+    ]) {
+        assert.ok(read(file).includes(uuid), file);
+        if (file !== 'scripts/install.py') assert.doesNotMatch(read(file), /classic-gadgets@qinyan\.local/, file);
+    }
 });
 
 test('runtime text and gettext catalogs no longer use the old product names', () => {

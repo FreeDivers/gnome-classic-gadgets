@@ -12,7 +12,7 @@ import Shell from 'gi://Shell';
 import {Extension} from 'resource:///org/gnome/shell/extensions/extension.js';
 import * as Main from 'resource:///org/gnome/shell/ui/main.js';
 
-const UUID = 'classic-gadgets@qinyan.local';
+const UUID = 'classic-gadgets@FreeDivers.github.io';
 const wait = ms => new Promise(resolve => GLib.timeout_add(GLib.PRIORITY_DEFAULT, ms, () => { resolve(); return GLib.SOURCE_REMOVE; }));
 
 async function screenshot(path) {
