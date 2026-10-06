@@ -1,10 +1,12 @@
+⚠️本项目是由 AI 生成的。⚠️
+
 # Windows Vista/7 小组件
 
 简体中文 | [English](README.en.md)
 
 把 Windows Vista / 7 风格的小组件放到 GNOME 桌面上。
 
-共有 14 个组件：时钟、日历、CPU / 内存、便笺、天气、幻灯片、计算器、计时器、图片拼图、RSS、货币换算、股票、联系人和回收站。提供经典和 Fluent 两种外观。
+共有 14 个组件：时钟、日历、CPU / 内存、便笺、天气、幻灯片、计算器、计时器、图片拼图、RSS、货币换算、股票、联系人和回收站。
 
 ![经典皮肤下的桌面小组件](docs/calendar-expanded.png)
 
@@ -35,8 +37,6 @@ gnome-extensions enable classic-gadgets@FreeDivers.github.io
 - 拖动组件空白处或右侧拖动柄来移动，点击齿轮修改该组件的设置。右键菜单里可以调整大小、不透明度或锁定位置。
 - 在顶栏「外观」中切换皮肤。组件位置、设置和便笺内容会自动保存。
 
-Ubuntu 的桌面右键入口通过 DING 集成，不修改系统扩展文件。可在扩展设置中关闭「桌面右键菜单」。
-
 ## 开发
 
 在项目根目录运行：
@@ -45,8 +45,6 @@ Ubuntu 的桌面右键入口通过 DING 集成，不修改系统扩展文件。�
 npm test
 npm run build
 ```
-
-安装包生成在 `dist/`。更多记录：[功能验证](docs/verification.md)、[网络验证](docs/network-region-verification.md)、[字体排版](docs/typography-verification.md)、[素材考证](docs/source-research.md)。
 
 ## 许可
 
